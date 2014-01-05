@@ -7,7 +7,7 @@ Ingredients
 -------------
 - 4         eggs yolks
 - 500   mL  cream 
-- 1/2   c   grade B maple syrup
+- 1/3   c   grade B maple syrup
 - 1/4   t   guar gum 
 - flavorings
 
