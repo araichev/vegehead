@@ -31,7 +31,7 @@ The food should not contain grains: wheat, rice, corn, oats, etc.
 Because i’ve read that it’s healthy, i’m eating less carbohydrate these days, and cutting out grains is one simple way to do that. I’m cutting back on sugars too but still include some sweet recipes, such as ice cream. Mmm.
 
 
-Requirements (Software)
+Software Requirements 
 =======================
 - Sphinx==1.2
 
