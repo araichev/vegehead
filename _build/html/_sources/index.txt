@@ -1,0 +1,22 @@
+.. toctree::
+    :maxdepth: 1
+
+    introduction 
+    tempeh_sauerkraut
+    mung_dal
+    chickpea_curry
+    chili
+    italian_lentil_soup
+    orange_squash_soup
+    cabbage_salad
+    red_cabbage_salad
+    mashed_kumara
+    hummus
+    tarator
+    nut_butter_muffins
+    chocolate_chip_cookies
+    cpbb_pie
+    apricot_balls
+    ice_cream
+    anise_drink
+    baking_soda

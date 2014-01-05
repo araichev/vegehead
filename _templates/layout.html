@@ -1,0 +1,20 @@
+{% extends "!layout.html" %}
+
+{% block relbar1 %}{% endblock %}
+{% block relbar2 %}{% endblock %}
+
+{% block content %}
+  <div id="header">
+    <h1>* {{ title }} *</h1>
+    A Cookbook<br/>
+    Compiled by Alex Raichev<br/>
+    Version {{ release }} (2014-01-01)<br/>
+  </div>
+
+  {% block sidebar1 %}{{ sidebar() }}{% endblock %}
+  {% block sidebar2 %}{% endblock %}
+  
+  {% block document %}{{ super() }}{%- endblock %}
+{% endblock %}
+
+{% block footer %}{% endblock %}

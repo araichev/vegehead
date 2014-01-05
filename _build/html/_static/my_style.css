@@ -1,0 +1,9 @@
+html 	{
+    -webkit-print-color-adjust: exact;   
+	}
+body {
+    color: red;
+}
+.pagebreak {
+     page-break-before:always;
+}
