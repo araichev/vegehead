@@ -6,7 +6,7 @@ Mung Dal
 
 Ingredients
 ------------
-- 3/2 c     mung beans
+- 3/2 c     dried mung beans, soaked for at least 4 hours
 - 5 c       water
 - 2 T       coconut oil       
 - 400 mL     chopped tomatoes 
