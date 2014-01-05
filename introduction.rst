@@ -33,7 +33,7 @@ c = cup, T = tablespoon, t = teaspoon.
 I also used metric units such as liters, kilograms, and Celsius with their standard abbreviations. 
 Finally, i chose to write single fractions instead of mixed numbers, such as 3/2 instead of 1 1/2, because i find them easier to read.
 
-This cookbook is open-source, and you can contribute to it via its Git repository at `?`_. 
+This cookbook is open-source, and you can contribute to it via its Git repository at `https://github.com/araichev/vegehead <https://github.com/araichev/vegehead>`_. 
 Enjoy and share!
 
 .. image:: pics/by-sa.png

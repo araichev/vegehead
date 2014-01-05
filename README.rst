@@ -39,4 +39,4 @@ Requirements (Software)
 Compiling the Cookbook
 =======================
 - Run ``make singlehtml``.
-- You can then use the resulting HTML as is or print a PDF from it, for example.
+- You can then use the `resulting HTML <https://rawgithub.com/araichev/vegehead/blob/master/_build/singlehtml/index.html>`_ as is or print a PDF from it, for example.
