@@ -2,7 +2,6 @@
     :maxdepth: 1
 
     introduction 
-    recipes/anise_drink
     recipes/mayonnaise
     recipes/tempeh_sauerkraut
     recipes/mung_dal
