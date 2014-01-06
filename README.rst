@@ -5,7 +5,7 @@ This is an open-source cookbook.  Feel free to contribute.
 
 Requirements
 ============
-In compiling this cookbook, i set the following requirements.
+In compiling this cookbook, i set the following requirements on the recipes.
 
 **Yummy.** 
 The food should taste great.
@@ -30,9 +30,8 @@ I’ll let canned foods slide, though.
 The food should not contain grains: wheat, rice, corn, oats, etc. 
 Because i’ve read that it’s healthy, i’m eating less carbohydrate these days, and cutting out grains is one simple way to do that. I’m cutting back on sugars too but still include some sweet recipes, such as ice cream. Mmm.
 
+Regarding software requirements for this project, they are 
 
-Software Requirements 
-=======================
 - Sphinx==1.2
 - A basic understanding of `reStructuredText <https://en.wikipedia.org/wiki/ReStructuredText>`_
 
