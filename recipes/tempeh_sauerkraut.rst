@@ -3,10 +3,12 @@ Tempeh Sauerkraut
 **Serves**: 3 / 
 **Equipment**: large skillet
 
+This one comes from `Lorna Sass <http://lornasass.com/>`_. 
+
 Ingredients
 ------------
 - 2   T   coconut oil
-- 1       large onion, julienned
+- 1       large onion, thinly sliced
 - 1       red capsicum, diced
 - 2       cloves garlic, diced
 - 1/2 t   caraway seeds

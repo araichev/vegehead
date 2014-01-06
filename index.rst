@@ -2,6 +2,8 @@
     :maxdepth: 1
 
     introduction 
+    recipes/anise_drink
+    recipes/mayonnaise
     recipes/tempeh_sauerkraut
     recipes/mung_dal
     recipes/chickpea_curry
@@ -18,5 +20,4 @@
     recipes/cpbb_pie
     recipes/apricot_balls
     recipes/ice_cream
-    recipes/anise_drink
     recipes/baking_soda

@@ -34,9 +34,15 @@ Because i’ve read that it’s healthy, i’m eating less carbohydrate these da
 Software Requirements 
 =======================
 - Sphinx==1.2
-
+- A basic understanding of `reStructuredText <https://en.wikipedia.org/wiki/ReStructuredText>`_
 
 Compiling the Cookbook
 =======================
 - Run ``make singlehtml``.
 - You can then use the `resulting HTML <https://rawgithub.com/araichev/vegehead/master/_build/singlehtml/index.html>`_ as is or print a PDF from it, for example.
+
+Todo
+====
+- Add hyperlinks from recipes back to the table of contents (TOC)
+- Add page numbers
+- Add page numbers to TOC using HTML

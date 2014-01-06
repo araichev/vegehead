@@ -19,9 +19,7 @@ Ingredients
 - 1/4 t   cinnamon
 - 5   c   water
 - 400 mL  chopped tomatoes
-- 2   c   assorted dry beans (but not chickpeas, because they take 
--         too long to cook compared to other beans), 
--         soaked for at least 4 hours
+- 2   c   assorted dried beans (but not chickpeas, because they take too long to cook compared to other beans), soaked for at least 4 hours
 - 1/2     kumara, diced
 - 2   c   greens such as kale
 - 1   t   salt or to taste
