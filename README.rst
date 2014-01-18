@@ -45,3 +45,4 @@ Todo
 - Add hyperlinks from recipes back to the table of contents (TOC)
 - Add page numbers
 - Add page numbers to TOC using HTML
+- Add time estimates to recipes

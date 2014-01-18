@@ -16,6 +16,7 @@
     recipes/tarator
     recipes/nut_butter_muffins
     recipes/chocolate_chip_cookies
+    recipes/peanut_butter_cookies
     recipes/cpbb_pie
     recipes/apricot_balls
     recipes/ice_cream

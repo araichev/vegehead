@@ -3,13 +3,13 @@
 
 Chocolate Chip Cookies
 =======================
-**Serves**: 6 /
+**Makes**: 12 cookies /
 **Equipment**: food processor, large bowl, baking tray
 
 
 Ingredients
 -----------
-- 4       Medjool dates, pits removed
+- 1/2 c   Medjool dates, pits removed
 - 2   c   almonds
 - 1   t   baking soda
 - 1/8     t   salt
@@ -22,11 +22,11 @@ Ingredients
 
 Directions
 ----------
-#. Preheat the oven to 175 |o| C.
+#. Preheat the oven to 180 |o| C.
 #. In a food processor, grind the dates, almonds, baking soda, salt, and vanilla into a fine mix.
 #. Add the coconut oil and egg, and blend for a few more seconds until mixed.
 #. Transfer the mix to a large bowl, and stir in the shredded coconut and chocolate chips.
-#. Shape the mix into roughly 12 cookies and place them on a baking sheet.
+#. Shape the mix into 12 cookies and place them on a baking tray.
 #. Bake until golden brown, roughly 15 minutes.
 
 
