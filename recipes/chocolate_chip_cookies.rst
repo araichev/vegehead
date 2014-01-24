@@ -30,6 +30,6 @@ Directions
 #. Bake until golden brown, roughly 15 minutes.
 
 
-Notes
------
-Makes about 12 cookies.
+Variation
+----------
+Replace 1 c almonds, the coconut oil, and the shredded coconut with 1/2 c peanut butter to make peanut butter chocolate chip cookies.

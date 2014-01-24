@@ -4,6 +4,7 @@
     introduction 
     recipes/mayonnaise
     recipes/tempeh_sauerkraut
+    recipes/pumpkin_hotpot
     recipes/mung_dal
     recipes/chickpea_curry
     recipes/chili
@@ -16,7 +17,6 @@
     recipes/tarator
     recipes/nut_butter_muffins
     recipes/chocolate_chip_cookies
-    recipes/peanut_butter_cookies
     recipes/cpbb_pie
     recipes/apricot_balls
     recipes/ice_cream
