@@ -3,7 +3,7 @@ Orange Squash Soup
 **Serves**: 4 / 
 **Equipment**: pressure cooker, immersion blender
 
-This one comes from `Lorna Sass <http://lornasass.com/>`_. 
+This one comes from Lorna Sass. 
 
 Ingredients
 ------------

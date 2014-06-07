@@ -3,7 +3,7 @@ Tempeh Sauerkraut
 **Serves**: 3 / 
 **Equipment**: large skillet
 
-This one comes from `Lorna Sass <http://lornasass.com/>`_. 
+This one comes from Lorna Sass. 
 
 Ingredients
 ------------

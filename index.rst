@@ -16,6 +16,7 @@
     recipes/hummus
     recipes/tarator
     recipes/nut_butter_muffins
+    recipes/chocolate
     recipes/chocolate_chip_cookies
     recipes/cpbb_pie
     recipes/apricot_balls

@@ -3,7 +3,7 @@ Italian Lentil Soup
 **Serves**: 6 /
 **Equipment**: pressure cooker, a cup
 
-This one comes from `Lorna Sass <http://lornasass.com/>`_. 
+This one comes from Lorna Sass. 
 
 Ingredients
 ------------
