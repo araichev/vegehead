@@ -6,6 +6,7 @@
     recipes/tempeh_sauerkraut
     recipes/pumpkin_hotpot
     recipes/mung_dal
+    recipes/chana_dal
     recipes/chickpea_curry
     recipes/chili
     recipes/italian_lentil_soup

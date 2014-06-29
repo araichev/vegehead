@@ -1,8 +1,0 @@
-VegeHead
-************
-| Vegetarian Recipes
-| Compiled by Alex Raichev
-
-
-Table of Contents
-=================
