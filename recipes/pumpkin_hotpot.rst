@@ -1,29 +1,28 @@
 Pumpkin Hotpot
 =======================
 **Serves**: 4 /
-**Equipment**: large pot, steamer basket
+**Equipment**: pressure cooker
 
 Ingredients
 ------------
-- 2 c pumpkin, chopped
 - 1 T coconut oil
 - 1 onion, chopped
 - 2 cloves garlic, diced
-- 1 T diced ginger
+- 2 t diced ginger
+- 400 mL chopped tomatoes
+- 400 mL coconut cream
+- 2 c pumpkin, chopped
 - 1 t ground turmeric
 - 1 t ground coriander seed
 - 1 t ground cumin
-- 800 mL chopped tomatoes
-- 400 mL coconut cream
-- 600 g tofu, cubed
+- 1/2 chili powder
+- 275 g tofu, cubed
 - 2 c spinach
 - 3/2 t salt or to taste
 
 Directions
 -----------
-#. Steam the pumpkin until tender, about 10 minutes, and set aside.
-#. Heat the oil and sauté the onions and garlic until golden.
-#. Add the ginger and spices and sauté for 30 seconds.
-#. Add the tomatoes and cream and bring to a boil.
-#. Add the tofu, pumpkin, and spinach and simmer for 10 minutes.
+#. Heat the oil and sauté the onions, garlic, and ginger for a minute.
+#. Add the tomatoes, cream, pumpkin, and spices and pressure cook on high for 5 minutes.
+#. Add the tofu and spinach and simmer for 5 minutes.
 #. Add the salt and serve.
