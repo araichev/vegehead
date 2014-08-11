@@ -16,6 +16,7 @@
     recipes/mashed_kumara
     recipes/hummus
     recipes/tarator
+    recipes/black_bean_brownies
     recipes/nut_butter_muffins
     recipes/chocolate
     recipes/chocolate_chip_cookies
