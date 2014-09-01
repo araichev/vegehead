@@ -13,7 +13,7 @@ Ingredients
 -----------
 - 2 T chia seeds or flax seeds + 2 T water 
 - 400 mL cooked black beans
-- 1/3 c maple syrup
+- 1/2 c maple syrup
 - 3/4 c cocoa powder
 - 1/4 c nut butter, such as peanut butter
 - 1/4 t salt
