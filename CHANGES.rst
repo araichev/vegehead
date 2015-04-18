@@ -4,6 +4,7 @@ Changes
 v2.0.1, 2015-04-18
 -------------------
 - Updated the chocolate recipe
+- Updated the license
 
 v2.0
 ------
