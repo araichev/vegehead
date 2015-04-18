@@ -33,7 +33,7 @@ Compiling the Cookbook
 
 Contributing
 =============
-- Learn the basics of of `reStructuredText <https://en.wikipedia.org/wiki/ReStructuredText>`_
+- Learn the basics of `reStructuredText <https://en.wikipedia.org/wiki/ReStructuredText>`_
 - Fork this repository
 - Add your recipes
 - Request a code review (issue a pull request)
