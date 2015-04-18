@@ -1,1 +1,1 @@
-The license is Attribution-ShareAlike 3.0 New Zealand, the full text of which is viewable `here <http://creativecommons.org/licenses/by-sa/3.0/nz/legalcode>`_.
+The license is `Attribution-NonCommercial-ShareAlike 3.0 New Zealand <http://creativecommons.org/licenses/by-nc-sa/3.0/nz/>`_.

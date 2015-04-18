@@ -1,11 +1,6 @@
-About
-======
-This is an open-source cookbook.  Feel free to contribute.
-
-
-Requirements
-============
-In compiling this cookbook, i set the following requirements on the recipes.
+Vegehead
+**********
+This is an open-source cookbook with the following requirements on its recipes.
 
 **Yummy.** 
 The food should taste great.
@@ -30,15 +25,19 @@ I’ll let canned foods slide, though.
 The food should not contain grains: wheat, rice, corn, oats, etc. 
 Because i’ve read that it’s healthy, i’m eating less carbohydrate these days, and cutting out grains is one simple way to do that. I’m cutting back on sugars too but still include some sweet recipes, such as ice cream. Mmm.
 
-Regarding software requirements for this project, they are 
-
-- Sphinx==1.2
-- A basic understanding of `reStructuredText <https://en.wikipedia.org/wiki/ReStructuredText>`_
-
 Compiling the Cookbook
 =======================
-- Run ``make singlehtml``.
-- You can then use the `resulting HTML <https://rawgithub.com/araichev/vegehead/master/_build/singlehtml/index.html>`_ as is or print a PDF from it, for example.
+- Install the requirements in ``requirements.txt``
+- Run ``make singlehtml``
+- You can then use the `resulting HTML <https://rawgithub.com/araichev/vegehead/master/_build/singlehtml/index.html>`_ as is or print a PDF from it, for example
+
+Contributing
+=============
+- Learn the basics of of `reStructuredText <https://en.wikipedia.org/wiki/ReStructuredText>`_
+- Fork this repository
+- Add your recipes
+- Request a code review (issue a pull request)
+
 
 Todo
 ====
