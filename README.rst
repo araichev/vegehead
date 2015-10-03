@@ -25,11 +25,13 @@ I’ll let canned foods slide, though.
 The food should not contain grains: wheat, rice, corn, oats, etc. 
 Because i’ve read that it’s healthy, i’m eating less carbohydrate these days, and cutting out grains is one simple way to do that. I’m cutting back on sugars too but still include some sweet recipes, such as ice cream. Mmm.
 
+
 Compiling the Cookbook
 =======================
-- Install the requirements in ``requirements.txt``
+- Run ``pip install -r requirements.txt``
 - Run ``make singlehtml``
 - You can then use the `resulting HTML <https://rawgithub.com/araichev/vegehead/master/_build/singlehtml/index.html>`_ as is or print a PDF from it, for example
+
 
 Contributing
 =============
