@@ -1,15 +1,22 @@
 Changes
 ========
 
-v2.0.1, 2015-04-18
+2.0.2, 2015-10-04
+-----------------
+- Added lemon curd recipe
+
+
+2.0.1, 2015-04-18
 -------------------
 - Updated the chocolate recipe
 - Updated the license
 
-v2.0
+
+2.0
 ------
 - Restricted the recipe requirements
 
-v1.0
+
+1.0
 -----
 Initial version of a vegetarian cookbook

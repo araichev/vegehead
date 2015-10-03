@@ -20,7 +20,7 @@ Going vegan is a bigger step.
 The ingredients should be as close as possible to the ones eaten by our pre-industrial ancestors. 
 That rules out 20th-century edible food-like substances (synthetic flavorings, high-fructose corn syrup, skim milk powder, etc.) and food grown with synthetic pesticides. 
 I don’t trust that stuff. 
-I’ll let canned foods slide, though. 
+I’ll let canned foods slide for the time being, but they better be bisphenal-A free!
 
 **Grain-free**. 
 The food should not contain grains: wheat, rice, corn, oats, etc. 

@@ -23,4 +23,5 @@
     recipes/cpbb_pie
     recipes/apricot_balls
     recipes/ice_cream
+    recipes/lemon_curd
     recipes/baking_soda
