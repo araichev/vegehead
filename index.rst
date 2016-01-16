@@ -18,7 +18,8 @@
     recipes/tarator
     recipes/black_bean_brownies
     recipes/nut_butter_muffins
-    recipes/chocolate
+    recipes/chocolate_1
+    recipes/chocolate_2
     recipes/chocolate_chip_cookies
     recipes/cpbb_pie
     recipes/apricot_balls

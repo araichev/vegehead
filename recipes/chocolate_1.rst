@@ -5,16 +5,16 @@
 
 Chocolate
 ==========
-**Makes**: 175g /
+**Makes**: 185g /
 **Equipment**: sauce pan, grater, thermometer, chocolate mold (optional)
 
 
 Ingredients
 -----------
 - 100   g   cocoa butter 
-- 60    g   cocoa powder
-- 1     t   vanilla extract
-- 2     t   maple syrup or sugar syrup
+- 80    g   cocoa powder
+- 1     t   crushed vanilla beans
+- 2     t   sugar
 
 
 Directions
@@ -29,11 +29,13 @@ Directions
 
 Variations
 ----------
-- Replace the vanilla extract with 1/2 t of peppermint extract
-- Add 1/2 t orange zest, 1/2 t cinnamon, and 1/2 t ground chilis
+- Replace the vanilla with 2 t of diced peppermint leaves
+- Add 1/2 t orange zest, 1/2 t cinnamon, and 1/2 t ground chili
 
 Notes
 ------
 The heating and cooling to specific temperatures in this recipe tempers the chocolate so that it hardens and remains hard at room temperature. 
-As a short cut, you can skip steps 4, 5, and 7 and cool the chocolate in the refrigerator, but you better keep it there to preserve its pleasant texture.
+Also, including liquids in this recipe would ruin or make very difficult the tempering.
+
+If you don't want to temper the chocolate, you can skip steps 4, 5, and 7 and cool the chocolate in the refrigerator, but you better keep it there.
 Bringing the chocolate back to room temperature will probably cause melting and mealiness.
