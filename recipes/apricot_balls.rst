@@ -1,6 +1,6 @@
 Apricot Balls
 ==============
-**Serves**: 8 /
+**Makes**: ~33 tablespoon-size balls /
 **Equipment**: food processor
 
 Ingredients
