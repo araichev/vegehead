@@ -7,25 +7,24 @@ In compiling it, i set the following requirements.
 The food should taste great.
 
 **Fast.** 
-The food should take at most 30 minutes to make. 
+The food should take at most 30 minutes to make, excluding trivial preparation, such as soaking legumes overnight to remove their phytic acid.
 I enjoy cooking but don’t want to spend a lot of time doing it. 
 To fulfill this requirement, several of the recipes below use a pressure cooker.
 
 **Vegetarian**.
 The food should not require the killing of animals. 
 I like to minimize the animal suffering involved in my meals and going vegetarian is a step in the right direction. 
-Going vegan is a bigger step.
+Going vegan is a bigger step that i'm not willing to take at present.
 
 **Pre-industrial**.
 The ingredients should be as close as possible to the ones eaten by our pre-industrial ancestors. 
-That rules out 20th-century edible food-like substances (synthetic flavorings, high-fructose corn syrup, skim milk powder, etc.) and food grown with synthetic pesticides. 
+That rules out 20th-century edible food-like substances (synthetic flavorings, high-fructose corn syrup, skim milk powder, etc.), food grown with synthetic pesticides, and even canned food because of the shadey chemical linings used in the cans.
 I don’t trust that stuff. 
-I’ll let canned foods slide for the time being, but they better be bisphenol-A-free!
 
 **Grain-free**. 
 The food should not contain grains: wheat, rice, corn, oats, etc. 
-Because i’ve read that it’s healthy, i’m eating less carbohydrate these days, and cutting out grains is one simple way to do that. 
-I’m cutting back on sugars, too, but still include some sweet recipes, such as ice cream. 
+I’m eating less carbohydrate these days, and cutting out grains is one simple way to do that. 
+I’m cutting back on sugars, too, which is probably more important health-wise, but i'll still include some sweet recipes, such as ice cream. 
 Mmm.
 
 In formatting this book, i used the following abbreviations:
@@ -35,6 +34,6 @@ c = cup, T = tablespoon, t = teaspoon.
 I also used metric units such as liters, kilograms, and Celsius with their standard abbreviations. 
 Finally, i chose to write single fractions instead of mixed numbers, such as 3/2 instead of 1 1/2, because i find them easier to read.
 
-This cookbook is open-source with license `Attribution-NonCommercial-ShareAlike 3.0 New Zealand <http://creativecommons.org/licenses/by-nc-sa/3.0/nz/>`_.
-You can contribute to the book via its Git repository at `https://github.com/araichev/vegehead <https://github.com/araichev/vegehead>`_. 
+This cookbook is open-source with license `Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) <https://creativecommons.org/licenses/by-nc-sa/4.0/>`_.
+You can contribute to the book via its `Git repository <https://github.com/araichev/vegehead>`_. 
 Enjoy and share!

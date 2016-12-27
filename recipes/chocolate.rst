@@ -13,9 +13,11 @@ Ingredients
 -----------
 - 50    g   cocoa butter
 - 50    g   coconut oil 
-- 80    g   cocoa powder
-- 2     t   honey
-- 1/4   t   cinnamon
+- 70    g   cocoa powder
+- 20	g   cocoa nibs
+- 1		t 	carob powder
+- 1 	t   ground vanilla beans
+- 1     t   honey
 
 
 Directions
@@ -27,5 +29,4 @@ Directions
 
 Variations
 ----------
-- Add 2 T diced dried figs and 1/2 t orange zest
-
+- Add 40 g dried cherries or cranberries.
