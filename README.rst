@@ -3,7 +3,6 @@ Vegehead
 This is an open-source cookbook with the following requirements on its recipes.
 
 **Yummy**.
-**Yummy**.
 The food should taste great.
 
 **Fast.** 
@@ -31,8 +30,8 @@ Mmm.
 Building the book yourself
 ============================
 - Run ``pip install -r requirements.txt``
-- Run ``make singlehtml``
-- You can then use the `resulting HTML <https://rawgithub.com/araichev/vegehead/master/_build/singlehtml/index.html>`_ as is or print a PDF from it, for example
+- Run ``make singlehtml`` and the Python library Sphinx will work its magic to build the book
+- You can then use the `resulting HTML <http://raichev.net/vegehead>`_ as is or print a PDF from it, for example
 
 
 Contributing
