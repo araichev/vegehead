@@ -9,6 +9,7 @@
     recipes/chana_dal
     recipes/chickpea_curry
     recipes/chili
+    recipes/moroccan_chili
     recipes/italian_lentil_soup
     recipes/orange_squash_soup
     recipes/cabbage_salad
@@ -18,11 +19,12 @@
     recipes/tarator
     recipes/black_bean_brownies
     recipes/nut_butter_muffins
-    recipes/chocolate_1
-    recipes/chocolate_2
+    recipes/chocolate_tempered
+    recipes/chocolate
     recipes/chocolate_chip_cookies
     recipes/cpbb_pie
     recipes/apricot_balls
     recipes/ice_cream
     recipes/lemon_curd
+    recipes/rhubarb_sauce
     recipes/baking_soda

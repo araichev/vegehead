@@ -3,8 +3,8 @@
 .. |o| unicode:: U+00B0
     :trim:
 
-Chocolate
-==========
+Chocolate Tempered
+==================
 **Makes**: 185g /
 **Equipment**: sauce pan, grater, thermometer, chocolate mold (optional)
 
