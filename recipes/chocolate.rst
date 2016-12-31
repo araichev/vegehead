@@ -15,18 +15,18 @@ Ingredients
 - 50    g   coconut oil 
 - 70    g   cocoa powder
 - 20	g   cocoa nibs
-- 1		t 	carob powder
 - 1 	t   ground vanilla beans
+- 1		t 	carob powder
 - 1     t   honey
 
 
 Directions
 ----------
-#. Melt the cocoa butter and coconut oil over medium heatpan or double boiler until it reaches 46 |o| C 
+#. Liquify the cocoa butter and coconut oil over medium heat in a sauce pan or double boiler 
 #. Remove from heat and thoroughly mix in the remaining ingredients
 #. Pour into a chocolate mold, pan, baking paper, something like that
 #. Chill and store in a refrigerator
 
 Variations
 ----------
-- Add 40 g dried cherries or cranberries.
+- Add 40 g dried cherries or cranberries
