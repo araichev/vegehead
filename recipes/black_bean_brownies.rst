@@ -11,7 +11,7 @@ The chia seed and water combination used in this recipe is a clever vegan substi
 
 Ingredients
 -----------
-- 2 T chia seeds or flax seeds + 2 T water 
+- 2 T chia seeds or flax seeds + 2 T water
 - 400 mL cooked black beans
 - 1/2 c maple syrup
 - 3/4 c cocoa powder
@@ -29,4 +29,4 @@ Instructions
 #. Grease the baking dish in coconut oil
 #. In the food processor, pulse the ground chia seeds and water. Add the maple syrup, black beans, cocao powder, nut butter, salt, vanilla, and baking powder. and blend until smooth, adding a little water if necessary.
 #. Pour the mix into the baking dish, smooth over with a knife, and sprinkle with the optional garnish
-#. Bake until the top is crispy but the inside still fudgey, about 25 minutes
+#. Bake until the top is crispy but the inside still fudgey, about 40 minutes
