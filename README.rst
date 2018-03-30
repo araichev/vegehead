@@ -51,7 +51,7 @@ Todo
 Changes
 ========
 
-2.1.1, 2018-03-30
+2.1.3, 2018-03-30
 ------------------
 - Updated the cook time on the black bean brownies to 40 minutes, which is more accurate and, alas, breaks the Vegehead rules. Still keeping the recipe, though.
 
