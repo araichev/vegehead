@@ -30,7 +30,7 @@ Mmm.
 Building the book yourself
 ============================
 - Run ``pipenv install``
-- Change directory to ``docs`` directory and run ``make singlehtml`` and the Python library Sphinx will work its magic to build the book
+- Change directory to ``docs`` and run ``make singlehtml``. Then Sphinx will work its magic to build the book.
 - You can then use the `resulting HTML <http://raichev.net/vegehead>`_ as is or print a PDF from it, for example
 
 
