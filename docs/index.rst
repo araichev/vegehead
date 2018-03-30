@@ -1,7 +1,7 @@
 .. toctree::
     :maxdepth: 1
 
-    introduction 
+    introduction
     recipes/mayonnaise
     recipes/tempeh_sauerkraut
     recipes/pumpkin_hotpot
