@@ -15,13 +15,13 @@ Ingredients
 - 1   t   basil
 - 1   t   cumin seed
 - 1   t   smoked paprika
-- 1/2 t   ground turmeric
+- ½ t   ground turmeric
 - 1   t   ground coriander seed
-- 1/4 t   cinnamon
+- ¼ t   cinnamon
 - 800 mL  chopped tomatoes
 - 800 mL  water
 - 2   c   assorted dried beans (but not chickpeas, because they take too long to cook compared to other beans), soaked for at least 4 hours
-- 1/2     kumara, diced
+- ½     kumara, diced
 - 2   c   greens such as kale
 - 1   t   salt or to taste
 - some    coriander for garnish

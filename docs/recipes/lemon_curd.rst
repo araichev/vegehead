@@ -7,8 +7,8 @@ Lemon Curd
 Ingredients
 -----------
 - 4     T   butter
-- 1/2   c   lemon juice
-- 5/2   T   maple syrup
+- ½   c   lemon juice
+- 2½   T   maple syrup
 - 4         eggs
 
 

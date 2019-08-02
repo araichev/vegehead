@@ -9,15 +9,15 @@ Chocolate Chip Cookies
 
 Ingredients
 -----------
-- 1/2 c   Medjool dates, pits removed
+- ½ c   Medjool dates, pits removed
 - 2   c   almonds
 - 1   t   baking soda
-- 1/8     t   salt
+- ⅛     t   salt
 - 1   t   vanilla extract
 - 2   T   coconut oil, melted
 - 1       egg
-- 1/4     c   shredded coconut
-- 1/2     c   dark chocolate chips
+- ¼     c   shredded coconut
+- ½     c   dark chocolate chips
 
 
 Directions
@@ -32,4 +32,4 @@ Directions
 
 Variation
 ----------
-Replace 1 c almonds, the coconut oil, and the shredded coconut with 1/2 c peanut butter to make peanut butter chocolate chip cookies.
+Replace 1 c almonds, the coconut oil, and the shredded coconut with ½ c peanut butter to make peanut butter chocolate chip cookies.

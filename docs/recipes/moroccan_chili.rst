@@ -19,9 +19,9 @@ Ingredients
 - 2 large carrots, coarsely chopped
 - 1 rib celery, finely chopped
 - 1 large red capsicum, seeded and diced
-- 1/2 c raisins
+- ½ c raisins
 - 2 c chopped tomatoes
-- 3/2 c brown lentils, picked over and rinsed
+- 1½ c brown lentils, picked over and rinsed
 - 3 c vegetable stock or water
 - 2 t ground coriander seeds
 - 2 5-cm cinnamon sticks broken in half

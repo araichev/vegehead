@@ -1,35 +1,36 @@
 Vegehead
 **********
-This is an open-source cookbook with the following requirements on its recipes.
+This is an open-source cookbook and a work in progress. 
+In compiling it, i set the following requirements.
 
 **Yummy**.
 The food should taste great.
 
-**Fast.**
+**Fast.** 
 The food should take at most 30 minutes to make, excluding trivial preparation, such as soaking legumes overnight to remove their phytic acid.
-I enjoy cooking but don’t want to spend a lot of time doing it.
-To fulfill this requirement, several of the recipes below use a pressure cooker.
+I enjoy cooking but don’t want to spend a lot of time doing it. 
+To fulfill this requirement, many of the recipes below use a pressure cooker.
 
 **Vegetarian**.
-The food should not require the killing of animals.
-I like to minimize the animal suffering involved in my meals and going vegetarian is a step in the right direction.
+The food should not require the killing of animals. 
+I like to minimize the animal suffering involved in my meals and going vegetarian is a step in the right direction. 
 Going vegan is a bigger step that i'm not willing to take at present.
 
 **Pre-industrial**.
-The ingredients should be as close as possible to the ones eaten by our pre-industrial ancestors.
+The ingredients should be as close as possible to the ones eaten by our pre-industrial ancestors. 
 That rules out 20th-century edible food-like substances (synthetic flavorings, high-fructose corn syrup, skim milk powder, etc.), food grown with synthetic pesticides, and even canned food because of the shadey chemical linings used in the cans.
-I don’t trust that stuff.
+I don’t trust that stuff. 
 
-**Grain-free**.
-The food should not contain grains: wheat, rice, corn, oats, etc.
-I’m eating less carbohydrate these days, and cutting out grains is one simple way to do that.
-I’m cutting back on sugars, too, which is probably more important health-wise, but i'll still include some sweet recipes, such as ice cream.
-Mmm.
+**Grain-free**. 
+The food should not contain grains: wheat, rice, corn, oats, etc. 
+I’m eating less carbohydrate these days, and cutting out grains is one simple way to do that. 
+I’m cutting back on sugars, too, which is probably more important health-wise, but i'll still include some sweet recipes, such as ice cream. 
+Mmm, ice cream.
 
 
 Building the book yourself
 ============================
-- Run ``pipenv install``
+- Create a Python 3.7 virtual environment and run ``poetry install``
 - Change directory to ``docs`` directory and run ``make singlehtml`` and the Python library Sphinx will work its magic to build the book
 - You can then use the `resulting HTML <http://raichev.net/vegehead>`_ as is or print a PDF from it, for example
 
@@ -39,7 +40,7 @@ Contributing
 - Learn the basics of `reStructuredText <https://en.wikipedia.org/wiki/ReStructuredText>`_
 - Fork this repository
 - Add your recipes
-- Request a code review (issue a merge/pull request)
+- Request a code review (issue a merge request)
 
 
 Todo
@@ -50,6 +51,14 @@ Todo
 
 Changes
 ========
+
+3.0.0, 2019-08-02
+-----------------
+- Switched to Python 3.7.
+- Switched to Poetry.
+- Corrected some typos.
+- Added some recipes.
+
 
 2.1.3, 2018-03-30
 ------------------

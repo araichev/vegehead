@@ -12,10 +12,10 @@ Ingredients
 - 1       large onion, thinly sliced
 - 1       red capsicum, diced
 - 2       cloves garlic, diced
-- 1/2 t   caraway seeds
+- ½ t   caraway seeds
 - 3   c   sauerkraut
-- 1/4 c   water
-- 1/4   c   mayonnaise or honey mustard (homemade of course!) 
+- ¼ c   water
+- ¼   c   mayonnaise or honey mustard (homemade of course!) 
 
 
 Directions

@@ -7,7 +7,7 @@ This one comes from Lorna Sass.
 
 Ingredients
 ------------
-- 6   c       water 
+- 6   c   water 
 - 2   c   brown lentils, rinsed
 - 2   T   olive oil
 - 1       large onion, peeled and coarsely chopped
@@ -17,12 +17,12 @@ Ingredients
 - 125 g   mushrooms, sliced
 - 2       bay leaves
 - 1   t   dried thyme or marjoram
-- 3/4 t   dried oregano
-- 1/4 t   dried chili flakes
+- ¾ t   dried oregano
+- ¼ t   dried chili flakes
 - 3   T   tomato paste or 2 large tomatoes, coarsely chopped
 - 2   T   balsamic vinegar
 - 1   t   salt or to taste
-- some        parsley for garnish
+- some    parsley for garnish
 
 
 Directions

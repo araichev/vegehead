@@ -1,14 +1,14 @@
 Mayonnaise
 ===========
-**Makes**: 1/3 c / 
+**Makes**: ⅓ c / 
 **Equipment**: bowl, whisk
 
 Ingredients
 ------------
-- 1/2   t   Dijon mustard
+- ½   t   Dijon mustard
 - 1     t   apple cider vinegar
 - 2         egg yolks
-- 1/4   c   olive oil
+- ¼   c   olive oil
 - 1     t   honey 
 - salt to taste
 

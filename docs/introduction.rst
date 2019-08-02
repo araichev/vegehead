@@ -1,6 +1,6 @@
 Introduction
 =============
-This is a cookbook in progress. 
+This is an open-source cookbook and a work in progress. 
 In compiling it, i set the following requirements.
 
 **Yummy**.
@@ -9,7 +9,7 @@ The food should taste great.
 **Fast.** 
 The food should take at most 30 minutes to make, excluding trivial preparation, such as soaking legumes overnight to remove their phytic acid.
 I enjoy cooking but don’t want to spend a lot of time doing it. 
-To fulfill this requirement, several of the recipes below use a pressure cooker.
+To fulfill this requirement, many of the recipes below use a pressure cooker.
 
 **Vegetarian**.
 The food should not require the killing of animals. 
@@ -25,15 +25,14 @@ I don’t trust that stuff.
 The food should not contain grains: wheat, rice, corn, oats, etc. 
 I’m eating less carbohydrate these days, and cutting out grains is one simple way to do that. 
 I’m cutting back on sugars, too, which is probably more important health-wise, but i'll still include some sweet recipes, such as ice cream. 
-Mmm.
+Mmm, ice cream.
 
-In formatting this book, i used the following abbreviations:
+In this book, i use the following abbreviations:
  
 c = cup, T = tablespoon, t = teaspoon.
 
-I also used metric units such as liters, kilograms, and Celsius with their standard abbreviations. 
-Finally, i chose to write single fractions instead of mixed numbers, such as 3/2 instead of 1 1/2, because i find them easier to read.
+I also use metric units such as liters, kilograms, and Celsius with their standard abbreviations. 
 
-This cookbook is open-source with license `Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) <https://creativecommons.org/licenses/by-nc-sa/4.0/>`_.
+This cookbook is published under the Creative Commons `Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) <https://creativecommons.org/licenses/by-nc-sa/4.0/>`_.
 You can contribute to the book via its `Git repository <https://github.com/araichev/vegehead>`_. 
 Enjoy and share!

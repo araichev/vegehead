@@ -13,12 +13,12 @@ Ingredients
 -----------
 - 2 T chia seeds or flax seeds + 2 T water
 - 400 mL cooked black beans
-- 1/2 c maple syrup
-- 3/4 c cocoa powder
-- 1/4 c nut butter, such as peanut butter
-- 1/4 t salt
+- ½ c maple syrup
+- ¾ c cocoa powder
+- ¼ c nut butter, such as peanut butter
+- ¼ t salt
 - 1 t vanilla extract
-- 3/2 t baking powder
+- 1½ t baking powder
 - coconut oil to grease the baking dish
 - nuts, goji berries, cocoa nibs for garnish (optional)
 - some creamy topping, such as coconut yoghurt (optional)

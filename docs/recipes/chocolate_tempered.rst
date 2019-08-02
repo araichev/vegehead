@@ -30,7 +30,7 @@ Directions
 Variations
 ----------
 - Replace the vanilla with 2 t of diced peppermint leaves
-- Add 1/2 t orange zest, 1/2 t cinnamon, and 1/2 t ground chili
+- Add ½ t orange zest, ½ t cinnamon, and ½ t ground chili
 
 Notes
 ------
