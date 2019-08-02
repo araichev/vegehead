@@ -45,7 +45,7 @@ Contributing
 
 Notes
 =====
-- To deploy, do ``ghp-import docs/_build/singlehtml -p``.
+- To deploy, do ``ghp-import docs/_build/singlehtml -p -n``.
 - Unicode fractions: ⅛, ¼, ⅓, ½, ⅔, ¾. 
 
 
