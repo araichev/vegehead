@@ -43,14 +43,19 @@ Contributing
 - Request a code review (issue a merge request)
 
 
-Todo
-====
-- Add hyperlinks from recipes back to the table of contents (TOC)
-- Add time estimates to recipes
+Notes
+=====
+- To deploy, do ``ghp-import docs/_build/singlehtml -p``.
+- Unicode fractions: ⅛, ¼, ⅓, ½, ⅔, ¾. 
 
 
 Changes
 ========
+
+3.0.1, 2019-08-02
+-----------------
+- Updated dependencies.
+
 
 3.0.0, 2019-08-02
 -----------------
