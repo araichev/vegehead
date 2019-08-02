@@ -6,10 +6,10 @@ Chocolate Peanut Butter Banana Pie
 Ingredients
 ------------
 - 1   c   diced almonds
-- 1/4     c   coconut oil
+- ¼     c   coconut oil
 - 1       banana, sliced into disks
 - 250     g   dark chocolate
-- 1/2     c   peanut butter
+- ½     c   peanut butter
 - 500     g   silken tofu
 - 4       T   maple syrup or honey
  

@@ -7,9 +7,9 @@ Ingredients
 ------------
 - 1   c   dry chickpeas, soaked for at least 4 hours
 - 3   c   water
-- 1/2  c  tahini
-- 1/4  c  lemon juice
-- 1/4  c  olive oil
+- ½  c  tahini
+- ¼  c  lemon juice
+- ¼  c  olive oil
 - 1   t   salt
 - 2       cloves garlic
 - 1   t   cumin

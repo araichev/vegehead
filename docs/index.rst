@@ -2,18 +2,19 @@
     :maxdepth: 1
 
     introduction
+    testimonials
     recipes/mayonnaise
     recipes/tempeh_sauerkraut
-    recipes/pumpkin_hotpot
     recipes/mung_dal
     recipes/chana_dal
     recipes/chickpea_curry
+    recipes/pumpkin_curry
     recipes/chili
     recipes/moroccan_chili
     recipes/italian_lentil_soup
-    recipes/orange_squash_soup
     recipes/cabbage_salad
     recipes/red_cabbage_salad
+    recipes/fried_kumara
     recipes/mashed_kumara
     recipes/hummus
     recipes/tarator

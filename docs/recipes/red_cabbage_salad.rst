@@ -9,7 +9,7 @@ Ingredients
 - 1   t   salt 
 - 1   t   caraway seeds
 - 1       apple, grated
-- 2/3 c   balsamic vinegar
+- ⅔   c   balsamic vinegar
 - 2   T   olive oil 
 
 

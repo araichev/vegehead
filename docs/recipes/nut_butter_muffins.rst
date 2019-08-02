@@ -11,7 +11,7 @@ Ingredients
 - 1   c   nut butter such as peanut or almond
 - 2       spotty bananas
 - 2       large eggs
-- 1/2 t   baking powder
+- ½   t   baking powder
 - 1   t   apple cider vinegar
 - 1   c   blueberries
 

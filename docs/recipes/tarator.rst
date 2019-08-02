@@ -14,8 +14,8 @@ Ingredients
 - 1       t       olive oil
 - 1           large cucumber, diced
 - 4           cloves garlic, minced
-- 1/2     c       walnuts, chopped
-- 1/2     c       fresh dilled, chopped
+- ½     c       walnuts, chopped
+- ½     c       fresh dilled, chopped
 
 
 Directions

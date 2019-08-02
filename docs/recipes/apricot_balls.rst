@@ -5,14 +5,14 @@ Apricot Balls
 
 Ingredients
 -----------
-- 3/4     c   raw cashews
-- 3/4     c   raw almonds
-- 1/4     c   pitted Medjol dates
-- 3/2     c   dried apricots
+- ¾   c   raw cashews
+- ¾   c   raw almonds
+- ¼   c   pitted Medjol dates
+- 1½  c   dried apricots
 - 1   dash salt
-- 1/4     c   shredded coconut
+- ¼   c   shredded coconut
 - 1   T   grated orange zest
-- 3/2     T   grated fresh ginger
+- 1½  T   grated fresh ginger
 
 
 Directions

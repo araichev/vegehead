@@ -9,14 +9,14 @@ Ingredients
 - 1       medium head cabbage (about 1.5 kg), thinly sliced
 - 1       apple, grated
 - 200 g   roasted and salted peanuts
-- 1/2 c   desiccated coconut
-- 1/4 c   lemon juice
-- 1/4 c   chopped coriander
-- 1/4 c   coconut oil
+- ½ c   desiccated coconut
+- ¼ c   lemon juice
+- ¼ c   chopped coriander
+- ¼ c   coconut oil
 - 2   t   black mustard seed
 - 2   t   cumin seed
 - 2   t   asafetida
-- 1/2 t   turmeric
+- ½ t   turmeric
 
 
 Directions

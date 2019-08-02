@@ -1,28 +1,29 @@
 Chickpea Curry
 ===============
 **Serves**: 4 /
-**Equipment**: food processor, large sauce pan
+**Equipment**: pressure cooker, large sauce pan
 
-This is the spiciest (highest spice count) dish i’ve ever cooked! It is also my favorite Hare Krishna recipe.
+This is the spiciest (highest spice count) dish i’ve ever cooked! 
+It is also my favorite Hare Krishna recipe.
 
 Ingredients
 --------------
 - 1   c   dry chickpeas, soaked for at least 4 hours
 - 3   c   water
 - 1   T   coconut oil
-- 1/2     t   ground cinnamon
+- ½     t   ground cinnamon
 - 1   T   fennel seeds
-- 1/8     c   curry leaves
-- 1/2     T   asafetida
+- ⅛     c   curry leaves
+- ½     T   asafetida
 - 400     mL  coconut cream
 - 400     mL  chopped tomato
-- 1/2         kumara, diced
-- 1/2     T   ground fennel seeds
-- 3/4     T   ground coriander seeds
-- 3/4     T   ground fenugreek
-- 1/2     T   ground turmeric
-- 1/2     t   chili powder
-- 1/4     T   garam masala
+- ½         kumara, diced
+- ½     T   ground fennel seeds
+- ¾     T   ground coriander seeds
+- ¾     T   ground fenugreek
+- ½     T   ground turmeric
+- ½     t   chili powder
+- ¼     T   garam masala
 - 1   T   channa masala
 - 1       head broccoli, chopped
 - 1   t   tamarind concentrate

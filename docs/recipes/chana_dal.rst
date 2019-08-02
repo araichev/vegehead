@@ -6,11 +6,11 @@ Chana Dal
 
 Ingredients
 ------------
-- 3/2 c     dried chana dal or yellow split peas, washed and soaked for at least 1 hour
+- 1½ c     dried chana dal or yellow split peas, washed and soaked for at least 1 hour
 - 6 c       water
 - 1 t       ground turmeric
 - 3         thin slices unpeeled ginger
-- 1/2 t     garam masala
+- ½ t     garam masala
 - 4 T       ghee       
 - 2         onions chopped
 - 1 t       cumin seeds
