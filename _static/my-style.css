@@ -16,8 +16,8 @@ h1 {
     page-break-before: always;
 }
 h1:before {
-    content: '>';
-    margin-left: -1em;
+    content: '🍴';
+    margin-left: -1.1em;
     padding-right: 0.4em;
     color: #ccc;
 }
@@ -38,7 +38,7 @@ h1:before {
 a:link, a:visited {
     font-weight: normal;
     text-decoration: none; 
-    color: royalblue;
+    color: #009933;
     }
 a[href]:hover, a:active { 
     text-decoration: underline;
@@ -47,5 +47,8 @@ p   {
     margin: 0 0 1.4 0; 
 }
 ul li {
-    list-style: circle
+    list-style: circle;
+}
+ul li p, ol li p {
+    margin: 0;
 }
