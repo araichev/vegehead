@@ -1,30 +1,30 @@
 Vegehead
 **********
-This is an open-source cookbook and a work in progress. 
+This is an open-source cookbook and a work in progress.
 In compiling it, i set the following requirements.
 
 **Yummy**.
 The food should taste great.
 
-**Fast.** 
+**Fast.**
 The food should take at most 30 minutes to make, excluding trivial preparation, such as soaking legumes overnight to remove their phytic acid.
-I enjoy cooking but don’t want to spend a lot of time doing it. 
+I enjoy cooking but don’t want to spend a lot of time doing it.
 To fulfill this requirement, many of the recipes below use a pressure cooker.
 
 **Vegetarian**.
-The food should not require the killing of animals. 
-I like to minimize the animal suffering involved in my meals and going vegetarian is a step in the right direction. 
+The food should not require the killing of animals.
+I like to minimize the animal suffering involved in my meals and going vegetarian is a step in the right direction.
 Going vegan is a bigger step that i'm not willing to take at present.
 
 **Pre-industrial**.
-The ingredients should be as close as possible to the ones eaten by our pre-industrial ancestors. 
+The ingredients should be as close as possible to the ones eaten by our pre-industrial ancestors.
 That rules out 20th-century edible food-like substances (synthetic flavorings, high-fructose corn syrup, skim milk powder, etc.), food grown with synthetic pesticides, and even canned food because of the shadey chemical linings used in the cans.
-I don’t trust that stuff. 
+I don’t trust that stuff.
 
-**Grain-free**. 
-The food should not contain grains: wheat, rice, corn, oats, etc. 
-I’m eating less carbohydrate these days, and cutting out grains is one simple way to do that. 
-I’m cutting back on sugars, too, which is probably more important health-wise, but i'll still include some sweet recipes, such as ice cream. 
+**Grain-free**.
+The food should not contain grains: wheat, rice, corn, oats, etc.
+I’m eating less carbohydrate these days, and cutting out grains is one simple way to do that.
+I’m cutting back on sugars, too, which is probably more important health-wise, but i'll still include some sweet recipes, such as ice cream.
 Mmm, ice cream.
 
 
@@ -46,11 +46,21 @@ Contributing
 Notes
 =====
 - To deploy, do ``ghp-import docs/_build/singlehtml -p -n``.
-- Unicode fractions: ⅛, ¼, ⅓, ½, ⅔, ¾. 
+- Unicode fractions: ⅛, ¼, ⅓, ½, ⅔, ¾.
 
 
 Changes
 ========
+
+3.0.3, 2019-08-10
+-----------------
+- Updated pumpkin curry.
+
+
+3.0.2, 2019-08-05
+-----------------
+- Updated testimonials.
+
 
 3.0.1, 2019-08-02
 -----------------
