@@ -17,7 +17,7 @@ Ingredients
 - ½   t   chili powder
 - 400 mL  coconut cream
 - 400 mL  chopped tomatoes
-- 300 g   firm tofu, cubed
+- 250 g   firm tofu, cubed
 - 2   c   spinach
 - 1   t   salt or to taste
 - 1   T   lemon juice

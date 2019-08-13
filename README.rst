@@ -52,6 +52,11 @@ Notes
 Changes
 ========
 
+3.0.4, 2019-08-10
+-----------------
+- Updated pumpkin curry.
+
+
 3.0.3, 2019-08-10
 -----------------
 - Updated pumpkin curry.
