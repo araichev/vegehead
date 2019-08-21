@@ -1,7 +1,7 @@
-Tarator 
+Tarator
 =======
-**Serves**: 6 /
-**Equipment**: big bowl
+| **Serves**: 6
+| **Equipment**: big bowl
 
 This is a Bulgarian recipe from my mother.
 
@@ -21,5 +21,5 @@ Ingredients
 Directions
 -----------
 #. In a big bowl, mix the yoghurt and water thoroughly.
-#. Mix in the rest of the ingredients.  
+#. Mix in the rest of the ingredients.
 #. Chill and serve.

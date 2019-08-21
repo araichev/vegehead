@@ -1,7 +1,7 @@
 Fried Kumara
 ==============
-**Serves**: 2 /
-**Equipment**: large skillet with lid
+| **Serves**: 2
+| **Equipment**: large skillet with lid
 
 
 Ingredients
@@ -10,7 +10,7 @@ Ingredients
 - 2   T   coconut oil
 - ⅛ t   ground cinnamon
 - salt to taste
-- 3   T   hulled tahini     
+- 3   T   hulled tahini
 
 
 Directions
