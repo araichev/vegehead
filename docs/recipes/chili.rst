@@ -1,7 +1,7 @@
 Chili
 ======
-**Serves**: 6 /
-**Equipment**: pressure cooker
+| **Serves**: 6
+| **Equipment**: pressure cooker
 
 Ingredients
 -----------
@@ -9,7 +9,7 @@ Ingredients
 - 1       onion, diced
 - 3       cloves garlic, diced
 - 1       green capsicum, diced
-- 2       jalapeños, diced    
+- 2       jalapeños, diced
 - 2       ribs celery, diced
 - 1   t   oregano
 - 1   t   basil
@@ -30,5 +30,5 @@ Ingredients
 Directions
 ----------
 #. In a pressure cooker, heat 1 T olive oil and sauté the onion, garlic, capsicum, and chilis until golden.
-#. Add in everything else except the salt and coriander, and pressure cook at high pressure for however long the slowest cooking bean needs, e.g. 12 minutes for a kidney bean + pinto bean + mung bean combination. 
+#. Add in everything else except the salt and coriander, and pressure cook at high pressure for however long the slowest cooking bean needs, e.g. 12 minutes for a kidney bean + pinto bean + mung bean combination.
 #. Add the remaining olive oil, salt, and coriander, and serve.

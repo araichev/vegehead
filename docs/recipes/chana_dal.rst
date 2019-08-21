@@ -1,7 +1,7 @@
 Chana Dal
 ==========
-**Serves**: 6 / 
-**Equipment**: pressure cooker, skillet
+| **Serves**: 6
+| **Equipment**: pressure cooker, skillet
 
 
 Ingredients
@@ -11,7 +11,7 @@ Ingredients
 - 1 t       ground turmeric
 - 3         thin slices unpeeled ginger
 - ½ t     garam masala
-- 4 T       ghee       
+- 4 T       ghee
 - 2         onions chopped
 - 1 t       cumin seeds
 - 3         cloves garlic chopped

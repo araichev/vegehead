@@ -1,7 +1,7 @@
 Lemon Curd
 ==============
-**Serves**: 2 /
-**Equipment**: sauce pan
+| **Serves**: 2
+| **Equipment**: sauce pan
 
 
 Ingredients

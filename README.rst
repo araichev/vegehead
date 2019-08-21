@@ -52,6 +52,12 @@ Notes
 Changes
 ========
 
+3.1.0, 2019-08-21
+-----------------
+- Added a testimonial.
+- Added almond rolls and frylet recipes.
+
+
 3.0.3, 2019-08-10
 -----------------
 - Updated pumpkin curry.

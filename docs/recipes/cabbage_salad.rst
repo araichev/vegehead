@@ -1,7 +1,7 @@
 Cabbage Salad
 ==============
-**Serves**: 6 /
-**Equipment**: large bowl, small sauce pan
+| **Serves**: 6
+| **Equipment**: large bowl, small sauce pan
 
 
 Ingredients

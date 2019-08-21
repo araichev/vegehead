@@ -1,7 +1,7 @@
 Rhubarb Sauce
 ===============
-**Serves**: 1 /
-**Equipment**: sauce pan
+| **Serves**: 1
+| **Equipment**: sauce pan
 
 
 Ingredients
