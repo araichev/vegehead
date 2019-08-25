@@ -4,8 +4,8 @@
 
 Black Bean Brownies
 ======================
-**Makes**: 12 brownies /
-**Equipment**: food processor, baking dish
+| **Makes**: 12 brownies
+| **Equipment**: food processor, baking dish
 
 The chia seed and water combination used in this recipe is a clever vegan substitute for eggs.
 

@@ -1,11 +1,11 @@
 Ice Cream
 =============
-**Serves**: 4 /
-**Equipment**: ice cream maker
+| **Serves**: 4
+| **Equipment**: ice cream maker
 
 Ingredients
 -------------
-- ⅛   t   guar gum 
+- ⅛   t   guar gum
 - 4         eggs yolks
 - ⅓   c   grade B maple syrup
 - 600   mL  cream 
@@ -27,5 +27,5 @@ Here are some example flavorings.
 - Chocolate: add 1 t vanilla extract and 150 g melted dark chocolate
 - Raspberry: add 2 t vanilla extract and 300g mashed raspberries
 - Peppermint: add 1 t vanilla extract, 2 t peppermint extract, and 25 g shaved chocolate bar
-- Rosey: add 2 T rosewater 
+- Rosey: add 2 T rosewater
 - Fat Elvis: add 2 t vanilla extract, 1 very ripe bananas mashed, 25 g shaved chocolate, and ⅓ c peanut butter

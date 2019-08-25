@@ -1,7 +1,7 @@
 Pumpkin Curry
 =============
-**Serves**: 4 / 
-**Equipment**: pressure cooker
+| **Serves**: 4
+| **Equipment**: pressure cooker
 
 
 Ingredients

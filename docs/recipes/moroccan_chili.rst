@@ -1,7 +1,7 @@
 Moroccan Chili
 ===============
-**Serves**: 6 /
-**Equipment**: pressure cooker
+| **Serves**: 6
+| **Equipment**: pressure cooker
 
 
 This one comes from Lorna Sass.

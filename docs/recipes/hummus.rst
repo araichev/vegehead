@@ -1,7 +1,7 @@
-Hummus 
+Hummus
 =======
-**Serves**: 4 /
-**Equipment**: pressure cooker, food processor
+| **Serves**: 4
+| **Equipment**: pressure cooker, food processor
 
 Ingredients
 ------------
@@ -21,5 +21,5 @@ This is most easily prepared with a food processor, but you can also use simple 
 
 #. Pressure cook the chickpeas and water at high pressure for 18 minutes.
 #. Separate the chickpeas and liquid and save both.
-#. In a food processor, whip the tahini and lemon juice. 
-#. Add in the remaining ingredients, blend, and thin to your desired consistency with the chickpea liquid. 
+#. In a food processor, whip the tahini and lemon juice.
+#. Add in the remaining ingredients, blend, and thin to your desired consistency with the chickpea liquid.

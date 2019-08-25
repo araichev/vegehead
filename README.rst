@@ -45,16 +45,17 @@ Contributing
 
 Notes
 =====
-- To deploy, do ``ghp-import docs/_build/singlehtml -p -n``.
+- To deploy, change to the ``docs`` directory, build the docs via ``make singlehtml``, then push with ``ghp-import _build/singlehtml -pnf``.
 - Unicode fractions: ⅛, ¼, ⅓, ½, ⅔, ¾.
 
 
 Changes
 ========
 
-3.0.4, 2019-08-10
+3.1.0, 2019-08-21
 -----------------
-- Updated pumpkin curry.
+- Added a testimonial.
+- Added almond rolls and frylet recipes.
 
 
 3.0.3, 2019-08-10
