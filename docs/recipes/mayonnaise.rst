@@ -1,7 +1,7 @@
 Mayonnaise
 ===========
-**Makes**: ⅓ c / 
-**Equipment**: bowl, whisk
+| **Makes**: ⅓ c
+| **Equipment**: bowl, whisk
 
 Ingredients
 ------------
@@ -9,7 +9,7 @@ Ingredients
 - 1     t   apple cider vinegar
 - 2         egg yolks
 - ¼   c   olive oil
-- 1     t   honey 
+- 1     t   honey
 - salt to taste
 
 Directions

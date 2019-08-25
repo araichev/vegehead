@@ -1,9 +1,9 @@
 Tempeh Sauerkraut
 ==================
-**Serves**: 3 / 
-**Equipment**: large skillet
+| **Serves**: 3
+| **Equipment**: large skillet
 
-This one comes from Lorna Sass. 
+This one comes from Lorna Sass.
 
 Ingredients
 ------------
@@ -15,7 +15,7 @@ Ingredients
 - ½ t   caraway seeds
 - 3   c   sauerkraut
 - ¼ c   water
-- ¼   c   mayonnaise or honey mustard (homemade of course!) 
+- ¼   c   mayonnaise or honey mustard (homemade of course!)
 
 
 Directions

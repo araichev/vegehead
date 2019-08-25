@@ -3,8 +3,8 @@
 
 Nut Butter Muffins
 ===================
-**Serves**: 12 /
-**Equipment**: big bowl, baking mold for 12 muffins
+| **Serves**: 12
+| **Equipment**: mixing bowl, baking mold for 12 muffins
 
 Ingredients
 -----------

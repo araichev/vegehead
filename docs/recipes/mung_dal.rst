@@ -1,20 +1,20 @@
 Mung Dal
 ========
-**Serves**: 6 / 
-**Equipment**: pressure cooker, small saucepan
+| **Serves**: 6
+| **Equipment**: pressure cooker, small saucepan
 
 
 Ingredients
 ------------
 - 1½ c     dried mung beans, soaked for at least 4 hours
 - 5 c       water
-- 2 T       coconut oil       
-- 400 mL     chopped tomatoes 
+- 2 T       coconut oil
+- 400 mL     chopped tomatoes
 - 1         onion, chopped
 - 2         cloves garlic, chopped
 - 1 T       shredded ginger
 - 1 t       ground turmeric
-- 1         hot chili 
+- 1         hot chili
 - 1         red capsicum, chopped
 - 1 t       salt
 - 1 t       cumin seeds

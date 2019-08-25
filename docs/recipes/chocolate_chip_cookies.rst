@@ -3,8 +3,8 @@
 
 Chocolate Chip Cookies
 =======================
-**Makes**: 12 cookies /
-**Equipment**: food processor, large bowl, baking tray
+| **Makes**: 12 cookies
+| **Equipment**: food processor, large bowl, baking tray
 
 
 Ingredients
