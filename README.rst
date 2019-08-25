@@ -10,6 +10,8 @@ The food should taste great.
 The food should take at most 30 minutes to make, excluding trivial preparation, such as soaking legumes overnight to remove their phytic acid.
 I enjoy cooking but don’t want to spend a lot of time doing it.
 To fulfill this requirement, many of the recipes below use a pressure cooker.
+OK, i cheat here.
+Some recipes below, such as the almond rolls, are slightly over time but too good to omit.
 
 **Vegetarian**.
 The food should not require the killing of animals.
@@ -40,7 +42,7 @@ Contributing
 - Learn the basics of `reStructuredText <https://en.wikipedia.org/wiki/ReStructuredText>`_
 - Fork this repository
 - Add your recipes
-- Request a code review (issue a merge request)
+- Issue a merge request and wait while i test out your recipes.
 
 
 Notes
@@ -52,10 +54,16 @@ Notes
 Changes
 ========
 
+3.1.1, 2019-08-26
+-----------------
+- Added a testimonial.
+
+
 3.1.0, 2019-08-21
 -----------------
 - Added a testimonial.
 - Added almond rolls and frylet recipes.
+- Removed the lemon curd recipe, because it's not fantastic.
 
 
 3.0.3, 2019-08-10

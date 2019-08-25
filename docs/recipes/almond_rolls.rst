@@ -7,6 +7,8 @@ Almond Rolls
 | **Makes**: 9 medium-sized rolls
 | **Equipment**: mixing bowl, baking tray with grease or parchment paper
 
+Finally, a delicious low-carbohydrate vector for cheese!
+
 Ingredients
 -----------
 - 150 g or 1½ c  almond flour or ground almonds

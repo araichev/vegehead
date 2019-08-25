@@ -3,7 +3,7 @@ Chickpea Curry
 | **Serves**: 4
 | **Equipment**: pressure cooker, large sauce pan
 
-This is the spiciest (highest spice count) dish i’ve ever cooked!
+This is the spiciest, as in highest spice count, dish i’ve ever cooked!
 It is also my favorite Hare Krishna recipe.
 
 Ingredients
