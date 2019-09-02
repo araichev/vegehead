@@ -3,8 +3,8 @@
 
 Nut Butter Muffins
 ===================
-| **Serves**: 12
-| **Equipment**: mixing bowl, baking mold for 12 muffins
+| **Serves**: 9
+| **Equipment**: mixing bowl, baking mold for 9 muffins
 
 Ingredients
 -----------
@@ -13,7 +13,8 @@ Ingredients
 - 2       large eggs
 - ½   t   baking powder
 - 1   t   apple cider vinegar
-- 1   c   blueberries
+- 1   c   berries, such as raspberries
+- grease for the muffin mold
 
 
 Directions
@@ -21,5 +22,10 @@ Directions
 #. Preheat the oven to 180 |o| C.
 #. In a big bowl, mix the nut butter, bananas, and eggs until smooth.
 #. Mix the baking powder and vinegar in a separate bowl and then add that to the main mix.
-#. Gently fold in the blueberries.
-#. Spoon the batter into 12 muffin cup and bake for 10 minutes.
+#. Gently fold in the berries.
+#. Grease the muffin mold, spoon the batter into it, and bake for 30 minutes or until golden brown.
+
+
+Variation
+---------
+- Add 1/4 c cocoa to the mix.

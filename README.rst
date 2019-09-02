@@ -54,6 +54,11 @@ Notes
 Changes
 ========
 
+3.1.2, 2019-09-02
+-----------------
+- Fixed typos in nut butter muffins recipe.
+
+
 3.1.1, 2019-08-26
 -----------------
 - Added a testimonial.
