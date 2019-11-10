@@ -22,8 +22,9 @@
     recipes/chili
     recipes/moroccan_chili
     recipes/italian_lentil_soup
-    recipes/black_bean_brownies
+    recipes/minestrone
 
+    recipes/black_bean_brownies
     recipes/nut_butter_muffins
     recipes/chocolate_tempered
     recipes/chocolate

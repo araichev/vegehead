@@ -1,5 +1,7 @@
 Vegehead
 **********
+Introduction
+=============
 This is an open-source cookbook and a work in progress.
 In compiling it, i set the following requirements.
 
@@ -21,12 +23,12 @@ Going vegan is a bigger step that i'm not willing to take at present.
 **Pre-industrial**.
 The ingredients should be as close as possible to the ones eaten by our pre-industrial ancestors.
 That rules out 20th-century edible food-like substances (synthetic flavorings, high-fructose corn syrup, skim milk powder, etc.), food grown with synthetic pesticides, and even canned food because of the shadey chemical linings used in the cans.
-I don’t trust that stuff.
+I don’t trust that stuff, but i get lazy and use canned tomatoes.
 
 **Grain-free**.
 The food should not contain grains: wheat, rice, corn, oats, etc.
 I’m eating less carbohydrate these days, and cutting out grains is one simple way to do that.
-I’m cutting back on sugars, too, which is probably more important health-wise, but i'll still include some sweet recipes, such as ice cream.
+I’m cutting back on sugars too, which is probably more important health-wise, but i still include some sweet recipes here, such as ice cream.
 Mmm, ice cream.
 
 
@@ -53,6 +55,11 @@ Notes
 
 Changes
 ========
+
+3.2.0, 2019-11-10
+-----------------
+- Added the minestrone recipe.
+
 
 3.1.2, 2019-09-02
 -----------------

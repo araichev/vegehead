@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "vegehead"
-version = "3.1.2"
+version = "3.2.0"
 description = "A cookbook"
 authors = ["Alex Raichev <alex@raichev.net>"]
 license = "CC BY-NC-SA 4.0"
