@@ -56,6 +56,11 @@ Notes
 Changes
 ========
 
+3.2.1, 2019-11-13
+-----------------
+- Added kombu dicing to the minestrone recipe.
+
+
 3.2.0, 2019-11-10
 -----------------
 - Added the minestrone recipe.
