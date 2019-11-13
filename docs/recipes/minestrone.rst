@@ -10,7 +10,7 @@ Ingredients
 - 3   T   olive oil
 - 1       onion, diced
 - 2       cloves garlic, diced
-- 1       100 mm strip kombu
+- 1       100 mm strip kombu, diced; scissors help here
 - 1       bay leaf
 - 1   t   oregano leaf dried
 - 1   t   basil leaf dried
