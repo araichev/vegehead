@@ -20,8 +20,7 @@ Ingredients
 Directions
 ----------
 #. Preheat the oven to 180 |o| C.
-#. In a big bowl, mix the nut butter, bananas, and eggs until smooth.
-#. Mix the baking powder and vinegar in a separate bowl and then add that to the main mix.
+#. In a big bowl, mix until smooth all the ingredients except the berries.
 #. Gently fold in the berries.
 #. Grease the muffin mold, spoon the batter into it, and bake for 30 minutes or until golden brown.
 

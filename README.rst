@@ -56,6 +56,12 @@ Notes
 Changes
 ========
 
+3.2.2, 2019-12-10
+-----------------
+- Updated Matt's testimonial.
+- Simplified nut butter muffin instructions.
+
+
 3.2.1, 2019-11-13
 -----------------
 - Added kombu dicing to the minestrone recipe.
