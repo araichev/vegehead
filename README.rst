@@ -57,10 +57,11 @@ Notes
 Changes
 ========
 
-3.3.0, 2020-05-14
+3.3.0, 2020-05-15
 -----------------
-- Added kumara dal recipe.
+- Added masoor dal recipe.
 - Corrected salt instruction in mung dal.
+- Added Evania's testimonial.
 
 
 3.2.2, 2019-12-10
