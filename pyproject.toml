@@ -1,12 +1,12 @@
 [tool.poetry]
 name = "vegehead"
-version = "3.2.2"
+version = "3.3.0"
 description = "A cookbook"
 authors = ["Alex Raichev <alex@raichev.net>"]
 license = "CC BY-NC-SA 4.0"
 
 [tool.poetry.dependencies]
-python = "^3.7"
+python = "^3.7||^3.8"
 sphinx = "^2.1"
 ghp-import = "^0.5.5"
 

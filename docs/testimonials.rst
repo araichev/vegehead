@@ -11,3 +11,5 @@ Testimonials
 ~Megan Coup
 
 "Darwin's *On the Origins of Species*, Kant's *Critique of Pure Reason*; there are some influential bodies of work in recent history. In my life, none more so than VegeHead. I've yet to encounter a recipe I haven't enjoyed or been able to easily make, and I like the layout's refined simplicity —no scrolling through the life story of each 'Chosen' ingredient. 5/5" ~Matt McDonald
+
+"Tip #1: Make sure you have a frying pan. Failing that, stop by Alex's, because there is a whole lot more know-how in that frylet than I have words for. C'est YUM." ~Evania Natalie-Anne Premadaya Quin Vallyon
