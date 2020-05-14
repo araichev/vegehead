@@ -1,5 +1,6 @@
 Vegehead
 **********
+
 Introduction
 =============
 This is an open-source cookbook and a work in progress.
@@ -22,19 +23,19 @@ Going vegan is a bigger step that i'm not willing to take at present.
 
 **Pre-industrial**.
 The ingredients should be as close as possible to the ones eaten by our pre-industrial ancestors.
-That rules out 20th-century edible food-like substances (synthetic flavorings, high-fructose corn syrup, skim milk powder, etc.), food grown with synthetic pesticides, and even canned food because of the shadey chemical linings used in the cans.
+That rules out 20th-century edible food-like substances (synthetic flavorings, high-fructose corn syrup, skim milk powder, etc.), food grown with synthetic pesticides, and even canned food because of the shady chemical linings used in the cans.
 I don’t trust that stuff, but i get lazy and use canned tomatoes.
 
 **Grain-free**.
 The food should not contain grains: wheat, rice, corn, oats, etc.
 I’m eating less carbohydrate these days, and cutting out grains is one simple way to do that.
-I’m cutting back on sugars too, which is probably more important health-wise, but i still include some sweet recipes here, such as ice cream.
+I’m cutting back on sugars too, which is the greater devil, but i still include some sweet recipes here, such as ice cream.
 Mmm, ice cream.
 
 
 Building the book yourself
 ============================
-- Create a Python 3.7 virtual environment and run ``poetry install``
+- Create a Python 3.7+ virtual environment and run ``poetry install``
 - Change directory to ``docs`` directory and run ``make singlehtml`` and the Python library Sphinx will work its magic to build the book
 - You can then use the `resulting HTML <http://raichev.net/vegehead>`_ as is or print a PDF from it, for example
 
@@ -55,6 +56,12 @@ Notes
 
 Changes
 ========
+
+3.3.0, 2020-05-14
+-----------------
+- Added kumara dal recipe.
+- Corrected salt instruction in mung dal.
+
 
 3.2.2, 2019-12-10
 -----------------

@@ -17,6 +17,7 @@
     recipes/frylet
     recipes/mung_dal
     recipes/chana_dal
+    recipes/masoor_dal.rest
     recipes/chickpea_curry
     recipes/pumpkin_curry
     recipes/chili
