@@ -9,9 +9,9 @@ Nut Butter Muffins
 Ingredients
 -----------
 - 1   c   nut butter such as peanut or almond
-- 2       spotty bananas
-- 2       large eggs
-- ½   t   baking powder
+- 2       large spotty bananas
+- 2       eggs
+- 1   t   baking soda
 - 1   t   apple cider vinegar
 - 1   c   berries, such as raspberries
 - grease for the muffin mold
@@ -22,7 +22,7 @@ Directions
 #. Preheat the oven to 180 |o| C.
 #. In a big bowl, mix until smooth all the ingredients except the berries.
 #. Gently fold in the berries.
-#. Grease the muffin mold, spoon the batter into it, and bake for 30 minutes or until golden brown.
+#. Grease the muffin mold, spoon the batter into it, and bake for 35 minutes or until golden brown.
 
 
 Variation

@@ -57,6 +57,12 @@ Notes
 Changes
 ========
 
+3.3.2, 2020-05-21
+-----------------
+- Fixed missing curry leaf instruction in masoor dal.
+- Added more baking soda to the nut butter muffins.
+
+
 3.3.1, 2020-05-20
 -----------------
 - Added more water to masoor dal.
