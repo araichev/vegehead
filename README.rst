@@ -57,6 +57,11 @@ Notes
 Changes
 ========
 
+3.3.1, 2020-05-20
+-----------------
+- Added more water to masoor dal.
+
+
 3.3.0, 2020-05-15
 -----------------
 - Added masoor dal recipe.
