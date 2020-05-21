@@ -14,7 +14,7 @@ Ingredients
 - 1½ t ground turmeric
 - 1½ t ground cumin
 - 8 curry leaves
-- 600 mL vegetable stock
+- 3 c vegetable stock
 - 400 g kumara, cut into cubes of side length 25 mm
 - 1 c red split lentils, rinsed
 - ½ c chopped spinach
