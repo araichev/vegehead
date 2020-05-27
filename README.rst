@@ -57,6 +57,11 @@ Notes
 Changes
 ========
 
+3.3.3, 2020-05-27
+-----------------
+- Increased the amount of peanut butter in the black bean brownies and edited the text.
+
+
 3.3.2, 2020-05-21
 -----------------
 - Fixed missing curry leaf instruction in masoor dal.
