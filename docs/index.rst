@@ -24,6 +24,7 @@
     recipes/moroccan_chili
     recipes/italian_lentil_soup
     recipes/minestrone
+    recipes/african_peanut_stew
 
     recipes/black_bean_brownies
     recipes/nut_butter_muffins

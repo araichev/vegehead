@@ -15,7 +15,7 @@ Ingredients
 - 1½ t ground cumin
 - 8 curry leaves
 - 3 c vegetable stock
-- 400 g kumara, cut into cubes of side length 25 mm
+- 400 g kumara, cubed to side length ~25 mm
 - 1 c red split lentils, rinsed
 - ½ c chopped spinach
 - salt to taste
@@ -24,7 +24,7 @@ Ingredients
 
 Directions
 -----------
-#. Cook the onion in the coconut oil over medium heat until soft. About 2 minutes.
+#. Cook the onion in the coconut oil over medium heat until soft, about 2 minutes.
 #. Add the garlic, ginger, and chili and cook for 30 seconds.
 #. Add the turmeric and cumin, and cook for 30 seconds.
 #. Add the vegetable stock, curry leaves, kumara, and lentils, cover, and bring to boil over high heat.

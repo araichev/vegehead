@@ -57,6 +57,12 @@ Notes
 Changes
 ========
 
+3.4.0, 2020-06-30
+-----------------
+- Added African Peanut Stew.
+- Added testimonial from Lewis.
+
+
 3.3.3, 2020-05-27
 -----------------
 - Increased the amount of peanut butter in the black bean brownies and edited the text.
