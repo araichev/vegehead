@@ -33,6 +33,7 @@ I’m cutting back on sugars too, which is the greater devil, but i still includ
 Mmm, ice cream.
 
 
+
 Building the book yourself
 ============================
 - Create a Python 3.7+ virtual environment and run ``poetry install``
@@ -56,6 +57,12 @@ Notes
 
 Changes
 ========
+
+3.4.1, 2020-07-15
+-----------------
+- Tweaked African Peanut Stew.
+- Added a note about pressure cookers in the intro.
+
 
 3.4.0, 2020-06-30
 -----------------
