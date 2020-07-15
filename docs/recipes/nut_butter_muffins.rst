@@ -11,7 +11,7 @@ Ingredients
 - 1   c   nut butter such as peanut or almond
 - 2       large spotty bananas
 - 2       eggs
-- 1   t   baking soda
+- 1   t   baking powder
 - 1   t   apple cider vinegar
 - 1   c   berries, such as raspberries
 - grease for the muffin mold

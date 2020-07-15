@@ -62,6 +62,7 @@ Changes
 -----------------
 - Tweaked African Peanut Stew.
 - Added a note about pressure cookers in the intro.
+- Replaced baking soda with baking powder in Nut Butter Muffins.
 
 
 3.4.0, 2020-06-30
