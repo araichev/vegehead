@@ -9,9 +9,9 @@ The food should taste great.
 **Fast.**
 The food should take at most 30 minutes to make, excluding trivial preparation, such as soaking legumes overnight to remove their phytic acid.
 I enjoy cooking but don’t want to spend a lot of time doing it.
-To fulfill this requirement, many of the recipes below use a pressure cooker.
-OK, i cheat here.
-Some recipes below, such as the almond rolls, are slightly over time but too good to omit.
+To fulfill this requirement, many of the recipes use a pressure cooker.
+If you don't have one, then just use a pot and cook for roughly twice as long.
+Oh, i also cheated: some of the recipes, such as the almond rolls, take slightly longer than 30 minutes to make, but those that do are too good to omit.
 
 **Vegetarian**.
 The food should not require the killing of animals.
