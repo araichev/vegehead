@@ -18,11 +18,11 @@ Ingredients
 - 1 t ground cumin
 - ½ t chili flakes
 - salt to taste
-- some chopped coriander leaves for garnish
+- some chopped coriander leaf and vinegary hot sauce for toppings
 
 
 Directions
 ------------
 1. In the pressure cooker, heat the oil, then sauté the onion and garlic until the onion becomes soft and translucent, about 3 minutes.
 2. Add the remaining ingredients, except for the salt and garnish, and cook at high pressure for 7 minutes, or until the kumara is tender.
-3. Salt, garnish, and serve.
+3. Salt, top, and serve.
