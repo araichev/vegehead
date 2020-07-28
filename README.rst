@@ -51,12 +51,17 @@ Contributing
 
 Notes
 =====
-- To deploy, change to the ``docs`` directory, build the docs via ``make singlehtml``, then push with ``ghp-import _build/singlehtml -pnf``.
+- To deploy, change to the ``docs`` directory, build the docs via ``make clean singlehtml``, then push with ``ghp-import _build/singlehtml -pnf``.
 - Unicode fractions: ⅛, ¼, ⅓, ½, ⅔, ¾.
 
 
 Changes
 ========
+
+3.5.0, 2020-07-??
+-----------------
+- Rephrased Chickpea Curry.
+- Added Banana Kulfi.
 
 3.4.1, 2020-07-15
 -----------------
