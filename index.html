@@ -1,17 +1,18 @@
 
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
   <head>
     <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>VegeHead</title>
     <link rel="stylesheet" href="_static/my-style.css" type="text/css" />
     <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
-    <script type="text/javascript" id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
-    <script type="text/javascript" src="_static/jquery.js"></script>
-    <script type="text/javascript" src="_static/underscore.js"></script>
-    <script type="text/javascript" src="_static/doctools.js"></script>
-    <script type="text/javascript" src="_static/language_data.js"></script>
+    <script id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
+    <script src="_static/jquery.js"></script>
+    <script src="_static/underscore.js"></script>
+    <script src="_static/doctools.js"></script>
+    <script src="_static/language_data.js"></script>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" /> 
   </head><body>
@@ -19,7 +20,7 @@
     <h1>* VegeHead *</h1>
     A Cookbook<br/>
     Compiled by Alex Raichev<br/>
-    Version 3.4.1<br/>
+    Version 3.5.0<br/>
     CC BY-NC-SA 4.0<br/>
   </div>
 
@@ -27,38 +28,45 @@
       <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
         <div class="sphinxsidebarwrapper"><h1>Table of Contents</h1>
 <ul>
-<li class="toctree-l1"><a class="reference internal" href="index.html#document-introduction">Introduction</a></li>
 <li class="toctree-l1"><a class="reference internal" href="index.html#document-testimonials">Testimonials</a></li>
-<li class="toctree-l1"><a class="reference internal" href="index.html#document-recipes/mayonnaise">Mayonnaise</a></li>
-<li class="toctree-l1"><a class="reference internal" href="index.html#document-recipes/hummus">Hummus</a></li>
-<li class="toctree-l1"><a class="reference internal" href="index.html#document-recipes/tempeh_sauerkraut">Tempeh Sauerkraut</a></li>
-<li class="toctree-l1"><a class="reference internal" href="index.html#document-recipes/cabbage_salad">Cabbage Salad</a></li>
-<li class="toctree-l1"><a class="reference internal" href="index.html#document-recipes/red_cabbage_salad">Red Cabbage Salad</a></li>
-<li class="toctree-l1"><a class="reference internal" href="index.html#document-recipes/tarator">Tarator</a></li>
-<li class="toctree-l1"><a class="reference internal" href="index.html#document-recipes/mashed_kumara">Mashed Kumara</a></li>
-<li class="toctree-l1"><a class="reference internal" href="index.html#document-recipes/fried_kumara">Fried Kumara</a></li>
-<li class="toctree-l1"><a class="reference internal" href="index.html#document-recipes/almond_rolls">Almond Rolls</a></li>
-<li class="toctree-l1"><a class="reference internal" href="index.html#document-recipes/frylet">Frylet</a></li>
-<li class="toctree-l1"><a class="reference internal" href="index.html#document-recipes/mung_dal">Mung Dal</a></li>
-<li class="toctree-l1"><a class="reference internal" href="index.html#document-recipes/chana_dal">Chana Dal</a></li>
-<li class="toctree-l1"><a class="reference internal" href="index.html#document-recipes/masoor_dal">Masoor Dal with Kumara</a></li>
-<li class="toctree-l1"><a class="reference internal" href="index.html#document-recipes/chickpea_curry">Chickpea Curry</a></li>
-<li class="toctree-l1"><a class="reference internal" href="index.html#document-recipes/pumpkin_curry">Pumpkin Curry</a></li>
-<li class="toctree-l1"><a class="reference internal" href="index.html#document-recipes/chili">Chili</a></li>
-<li class="toctree-l1"><a class="reference internal" href="index.html#document-recipes/moroccan_chili">Moroccan Chili</a></li>
-<li class="toctree-l1"><a class="reference internal" href="index.html#document-recipes/italian_lentil_soup">Italian Lentil Soup</a></li>
-<li class="toctree-l1"><a class="reference internal" href="index.html#document-recipes/minestrone">Almost Minestrone</a></li>
-<li class="toctree-l1"><a class="reference internal" href="index.html#document-recipes/african_peanut_stew">African Peanut Stew</a></li>
-<li class="toctree-l1"><a class="reference internal" href="index.html#document-recipes/black_bean_brownies">Black Bean Brownies</a></li>
-<li class="toctree-l1"><a class="reference internal" href="index.html#document-recipes/nut_butter_muffins">Nut Butter Muffins</a></li>
-<li class="toctree-l1"><a class="reference internal" href="index.html#document-recipes/chocolate_tempered">Chocolate Tempered</a></li>
-<li class="toctree-l1"><a class="reference internal" href="index.html#document-recipes/chocolate">Chocolate</a></li>
-<li class="toctree-l1"><a class="reference internal" href="index.html#document-recipes/chocolate_chip_cookies">Chocolate Chip Cookies</a></li>
-<li class="toctree-l1"><a class="reference internal" href="index.html#document-recipes/cpbb_pie">Chocolate Peanut Butter Banana Pie</a></li>
-<li class="toctree-l1"><a class="reference internal" href="index.html#document-recipes/apricot_balls">Apricot Balls</a></li>
-<li class="toctree-l1"><a class="reference internal" href="index.html#document-recipes/ice_cream">Ice Cream</a></li>
-<li class="toctree-l1"><a class="reference internal" href="index.html#document-recipes/rhubarb_sauce">Rhubarb Sauce</a></li>
-<li class="toctree-l1"><a class="reference internal" href="index.html#document-recipes/baking_soda">Hooray for Baking Soda</a></li>
+<li class="toctree-l1"><a class="reference internal" href="index.html#document-introduction">Introduction</a></li>
+<li class="toctree-l1"><a class="reference internal" href="index.html#document-savory">Savory Recipes</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="index.html#document-recipes/mayonnaise">Mayonnaise</a></li>
+<li class="toctree-l2"><a class="reference internal" href="index.html#document-recipes/hummus">Hummus</a></li>
+<li class="toctree-l2"><a class="reference internal" href="index.html#document-recipes/tempeh_sauerkraut">Tempeh Sauerkraut</a></li>
+<li class="toctree-l2"><a class="reference internal" href="index.html#document-recipes/cabbage_salad">Cabbage Salad</a></li>
+<li class="toctree-l2"><a class="reference internal" href="index.html#document-recipes/red_cabbage_salad">Red Cabbage Salad</a></li>
+<li class="toctree-l2"><a class="reference internal" href="index.html#document-recipes/tarator">Tarator</a></li>
+<li class="toctree-l2"><a class="reference internal" href="index.html#document-recipes/mashed_kumara">Mashed Kumara</a></li>
+<li class="toctree-l2"><a class="reference internal" href="index.html#document-recipes/fried_kumara">Fried Kumara</a></li>
+<li class="toctree-l2"><a class="reference internal" href="index.html#document-recipes/almond_rolls">Almond Rolls</a></li>
+<li class="toctree-l2"><a class="reference internal" href="index.html#document-recipes/frylet">Frylet</a></li>
+<li class="toctree-l2"><a class="reference internal" href="index.html#document-recipes/mung_dal">Mung Dal</a></li>
+<li class="toctree-l2"><a class="reference internal" href="index.html#document-recipes/chana_dal">Chana Dal</a></li>
+<li class="toctree-l2"><a class="reference internal" href="index.html#document-recipes/masoor_dal">Masoor Dal with Kumara</a></li>
+<li class="toctree-l2"><a class="reference internal" href="index.html#document-recipes/chickpea_curry">Chickpea Curry</a></li>
+<li class="toctree-l2"><a class="reference internal" href="index.html#document-recipes/pumpkin_curry">Pumpkin Curry</a></li>
+<li class="toctree-l2"><a class="reference internal" href="index.html#document-recipes/chili">Chili</a></li>
+<li class="toctree-l2"><a class="reference internal" href="index.html#document-recipes/moroccan_chili">Moroccan Chili</a></li>
+<li class="toctree-l2"><a class="reference internal" href="index.html#document-recipes/italian_lentil_soup">Italian Lentil Soup</a></li>
+<li class="toctree-l2"><a class="reference internal" href="index.html#document-recipes/minestrone">Almost Minestrone</a></li>
+<li class="toctree-l2"><a class="reference internal" href="index.html#document-recipes/african_peanut_stew">African Peanut Stew</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="index.html#document-sweet">Sweet Recipes</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="index.html#document-recipes/black_bean_brownies">Black Bean Brownies</a></li>
+<li class="toctree-l2"><a class="reference internal" href="index.html#document-recipes/nut_butter_muffins">Nut Butter Muffins</a></li>
+<li class="toctree-l2"><a class="reference internal" href="index.html#document-recipes/chocolate_tempered">Chocolate Tempered</a></li>
+<li class="toctree-l2"><a class="reference internal" href="index.html#document-recipes/chocolate">Chocolate</a></li>
+<li class="toctree-l2"><a class="reference internal" href="index.html#document-recipes/chocolate_chip_cookies">Chocolate Chip Cookies</a></li>
+<li class="toctree-l2"><a class="reference internal" href="index.html#document-recipes/cpbb_pie">Chocolate Peanut Butter Banana Pie</a></li>
+<li class="toctree-l2"><a class="reference internal" href="index.html#document-recipes/apricot_balls">Apricot Balls</a></li>
+<li class="toctree-l2"><a class="reference internal" href="index.html#document-recipes/ice_cream">Ice Cream</a></li>
+<li class="toctree-l2"><a class="reference internal" href="index.html#document-recipes/rhubarb_sauce">Rhubarb Sauce</a></li>
+<li class="toctree-l2"><a class="reference internal" href="index.html#document-recipes/banana_kulfi">Banana Kulfi</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="index.html#document-recipes/baking_soda">Hooray for Baking Soda!</a></li>
 </ul>
 
         </div>
@@ -71,38 +79,6 @@
           <div class="body" role="main">
             
   <div class="toctree-wrapper compound">
-<span id="document-introduction"></span><div class="section" id="introduction">
-<h1>Introduction<a class="headerlink" href="#introduction" title="Permalink to this headline"> </a></h1>
-<p>This is an open-source cookbook and a work in progress.
-In compiling it, i set the following requirements.</p>
-<p><strong>Yummy</strong>.
-The food should taste great.</p>
-<p><strong>Fast.</strong>
-The food should take at most 30 minutes to make, excluding trivial preparation, such as soaking legumes overnight to remove their phytic acid.
-I enjoy cooking but don’t want to spend a lot of time doing it.
-To fulfill this requirement, many of the recipes use a pressure cooker.
-If you don’t have one, then just use a pot and cook for roughly twice as long.
-Oh, i also cheated: some of the recipes, such as the almond rolls, take slightly longer than 30 minutes to make, but those that do are too good to omit.</p>
-<p><strong>Vegetarian</strong>.
-The food should not require the killing of animals.
-I like to minimize the animal suffering involved in my meals and going vegetarian is a step in the right direction.
-Going vegan is a bigger step that i’m not willing to take at present.</p>
-<p><strong>Pre-industrial</strong>.
-The ingredients should be as close as possible to the ones eaten by our pre-industrial ancestors.
-That rules out 20th-century edible food-like substances (synthetic flavorings, high-fructose corn syrup, skim milk powder, etc.), food grown with synthetic pesticides, and even canned food because of the shady chemical linings used in the cans.
-I don’t trust that stuff, but i get lazy and use canned tomatoes.</p>
-<p><strong>Grain-free</strong>.
-The food should not contain grains: wheat, rice, corn, oats, etc.
-I’m eating less carbohydrate these days, and cutting out grains is one simple way to do that.
-I’m cutting back on sugars too, which is the greater devil, but i still include some sweet recipes here, such as ice cream.
-Mmm, ice cream.</p>
-<p>In this book, i use the following abbreviations:</p>
-<p>c = cup, T = tablespoon, t = teaspoon.</p>
-<p>I also use metric units such as liters, kilograms, and Celsius with their standard abbreviations.</p>
-<p>This cookbook is published under the Creative Commons <a class="reference external" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</a>.
-You can contribute to the book via its <a class="reference external" href="https://github.com/araichev/vegehead">Git repository</a>.
-Enjoy and share!</p>
-</div>
 <span id="document-testimonials"></span><div class="section" id="testimonials">
 <h1>Testimonials<a class="headerlink" href="#testimonials" title="Permalink to this headline"> </a></h1>
 <p>“OMG! The Chickpea curry is amazing! We cooked it last night. I would say the best curry we have ever made. Very impressed!  Honestly it was soooo good! I’m making it a weekly.”
@@ -115,14 +91,50 @@ Enjoy and share!</p>
 <p>“Tip #1: Make sure you have a frying pan. Failing that, stop by Alex’s, because there is a whole lot more know-how in that frylet than I have words for. C’est YUM.” ~Evania Natalie-Anne Premadaya Quin Vallyon</p>
 <p>“Alex makes good shit. The good shit that Alex makes is here. This is legit food. If I weren’t such a maverick and actually followed recipes, this would be the place for me. If you don’t like legit food, might I recommend a trip to the freezer aisle of your local big box grocery store where you might find something appropriately prosaic?” ~Lewis Thorwaldson</p>
 </div>
+<span id="document-introduction"></span><div class="section" id="introduction">
+<h1>Introduction<a class="headerlink" href="#introduction" title="Permalink to this headline"> </a></h1>
+<p>This is an open-source cookbook and a work in progress.
+In compiling it, i set the following requirements.</p>
+<p><strong>Yummy</strong>.
+The food should taste great.</p>
+<p><strong>Fast.</strong>
+The food should take at most 30 minutes to make, excluding trivial preparation, such as soaking legumes overnight to remove their phytic acid.
+I enjoy cooking but don’t want to spend a lot of time doing it.
+To fulfill this requirement, many of the recipes use a pressure cooker.
+If you don’t have one, then just use a pot and cook for roughly twice as long.
+I also cheated: some of the recipes, such as the almond rolls, take slightly longer than 30 minutes to make, but those that do are too good to omit.</p>
+<p><strong>Vegetarian</strong>.
+The food should not require the killing of animals.
+I like to minimize the suffering involved in my meals, and going vegetarian is a step in that direction.
+Going vegan is a bigger step, one that i’m not willing to take at present.</p>
+<p><strong>Pre-industrial</strong>.
+The ingredients should be as close as possible to the ones eaten by our pre-industrial ancestors.
+That rules out 20th-century edible food-like substances (synthetic flavorings, high-fructose corn syrup, skim milk powder, etc.), food grown with synthetic pesticides, and even canned food because of the shady chemical linings used in the cans.
+I don’t trust that stuff.
+That said, i do get lazy and use canned tomatoes.</p>
+<p><strong>Grain-free</strong>.
+The food should not contain grains: wheat, rice, corn, oats, etc.
+I’m eating less carbohydrate these days, and cutting out grains is one simple way to do that.
+I’m cutting back on sugars too, which is the greater devil, but i still include some sweet recipes here, such as ice cream.
+Mmm, ice cream.</p>
+<p>In this book, i use the following abbreviations:</p>
+<p>c = cup, T = tablespoon, t = teaspoon.</p>
+<p>I also use metric units such as liters, kilograms, and Celsius with their standard abbreviations.</p>
+<p>This cookbook is published under the Creative Commons <a class="reference external" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</a>.
+You can contribute to the book via its <a class="reference external" href="https://github.com/araichev/vegehead">Git repository</a>.
+Enjoy and share!</p>
+</div>
+<span id="document-savory"></span><div class="section" id="savory-recipes">
+<h1>Savory Recipes<a class="headerlink" href="#savory-recipes" title="Permalink to this headline"> </a></h1>
+<div class="toctree-wrapper compound">
 <span id="document-recipes/mayonnaise"></span><div class="section" id="mayonnaise">
-<h1>Mayonnaise<a class="headerlink" href="#mayonnaise" title="Permalink to this headline"> </a></h1>
+<h2>Mayonnaise<a class="headerlink" href="#mayonnaise" title="Permalink to this headline"> </a></h2>
 <div class="line-block">
 <div class="line"><strong>Makes</strong>: ⅓ c</div>
 <div class="line"><strong>Equipment</strong>: bowl, whisk</div>
 </div>
 <div class="section" id="ingredients">
-<h2>Ingredients<a class="headerlink" href="#ingredients" title="Permalink to this headline"> </a></h2>
+<h3>Ingredients<a class="headerlink" href="#ingredients" title="Permalink to this headline"> </a></h3>
 <ul class="simple">
 <li><p>½   t   Dijon mustard</p></li>
 <li><p>1     t   apple cider vinegar</p></li>
@@ -133,7 +145,7 @@ Enjoy and share!</p>
 </ul>
 </div>
 <div class="section" id="directions">
-<h2>Directions<a class="headerlink" href="#directions" title="Permalink to this headline"> </a></h2>
+<h3>Directions<a class="headerlink" href="#directions" title="Permalink to this headline"> </a></h3>
 <ol class="arabic simple">
 <li><p>In a bowl, whisk the egg yolks, mustard, and vinegar until frothy.</p></li>
 <li><p>Very slowly drizzle in the olive oil while whisking rapidly until thick.</p></li>
@@ -142,13 +154,13 @@ Enjoy and share!</p>
 </div>
 </div>
 <span id="document-recipes/hummus"></span><div class="section" id="hummus">
-<h1>Hummus<a class="headerlink" href="#hummus" title="Permalink to this headline"> </a></h1>
+<h2>Hummus<a class="headerlink" href="#hummus" title="Permalink to this headline"> </a></h2>
 <div class="line-block">
 <div class="line"><strong>Serves</strong>: 4</div>
 <div class="line"><strong>Equipment</strong>: pressure cooker, food processor</div>
 </div>
 <div class="section" id="ingredients">
-<h2>Ingredients<a class="headerlink" href="#ingredients" title="Permalink to this headline"> </a></h2>
+<h3>Ingredients<a class="headerlink" href="#ingredients" title="Permalink to this headline"> </a></h3>
 <ul class="simple">
 <li><p>1   c   dry chickpeas, soaked for at least 4 hours</p></li>
 <li><p>3   c   water</p></li>
@@ -161,7 +173,7 @@ Enjoy and share!</p>
 </ul>
 </div>
 <div class="section" id="directions">
-<h2>Directions<a class="headerlink" href="#directions" title="Permalink to this headline"> </a></h2>
+<h3>Directions<a class="headerlink" href="#directions" title="Permalink to this headline"> </a></h3>
 <p>This is most easily prepared with a food processor, but you can also use simple implements such as a whisk, mortar, and pestle.</p>
 <ol class="arabic simple">
 <li><p>Pressure cook the chickpeas and water at high pressure for 18 minutes.</p></li>
@@ -172,14 +184,14 @@ Enjoy and share!</p>
 </div>
 </div>
 <span id="document-recipes/tempeh_sauerkraut"></span><div class="section" id="tempeh-sauerkraut">
-<h1>Tempeh Sauerkraut<a class="headerlink" href="#tempeh-sauerkraut" title="Permalink to this headline"> </a></h1>
+<h2>Tempeh Sauerkraut<a class="headerlink" href="#tempeh-sauerkraut" title="Permalink to this headline"> </a></h2>
 <div class="line-block">
 <div class="line"><strong>Serves</strong>: 3</div>
 <div class="line"><strong>Equipment</strong>: large skillet</div>
 </div>
 <p>This one comes from Lorna Sass.</p>
 <div class="section" id="ingredients">
-<h2>Ingredients<a class="headerlink" href="#ingredients" title="Permalink to this headline"> </a></h2>
+<h3>Ingredients<a class="headerlink" href="#ingredients" title="Permalink to this headline"> </a></h3>
 <ul class="simple">
 <li><p>2   T   coconut oil</p></li>
 <li><p>500 g   tempeh, cut into fingers</p></li>
@@ -193,7 +205,7 @@ Enjoy and share!</p>
 </ul>
 </div>
 <div class="section" id="directions">
-<h2>Directions<a class="headerlink" href="#directions" title="Permalink to this headline"> </a></h2>
+<h3>Directions<a class="headerlink" href="#directions" title="Permalink to this headline"> </a></h3>
 <ol class="arabic simple">
 <li><p>In a large skillet sauté the tempeh in 1 T of oil until golden brown.  Set aside.</p></li>
 <li><p>With the remaining oil, sauté the onion, capsicum, and garlic until lightly browned.</p></li>
@@ -202,13 +214,13 @@ Enjoy and share!</p>
 </div>
 </div>
 <span id="document-recipes/cabbage_salad"></span><div class="section" id="cabbage-salad">
-<h1>Cabbage Salad<a class="headerlink" href="#cabbage-salad" title="Permalink to this headline"> </a></h1>
+<h2>Cabbage Salad<a class="headerlink" href="#cabbage-salad" title="Permalink to this headline"> </a></h2>
 <div class="line-block">
 <div class="line"><strong>Serves</strong>: 6</div>
 <div class="line"><strong>Equipment</strong>: large bowl, small sauce pan</div>
 </div>
 <div class="section" id="ingredients">
-<h2>Ingredients<a class="headerlink" href="#ingredients" title="Permalink to this headline"> </a></h2>
+<h3>Ingredients<a class="headerlink" href="#ingredients" title="Permalink to this headline"> </a></h3>
 <ul class="simple">
 <li><p>1       medium head cabbage (about 1.5 kg), thinly sliced</p></li>
 <li><p>1       apple, grated</p></li>
@@ -224,7 +236,7 @@ Enjoy and share!</p>
 </ul>
 </div>
 <div class="section" id="directions">
-<h2>Directions<a class="headerlink" href="#directions" title="Permalink to this headline"> </a></h2>
+<h3>Directions<a class="headerlink" href="#directions" title="Permalink to this headline"> </a></h3>
 <ol class="arabic simple">
 <li><p>In a large bowl, mix the cabbage, apple, peanuts, coconut, lemon juice, and coriander.</p></li>
 <li><p>In a small sauce pan, heat the oil and fry the spices until fragrant.</p></li>
@@ -233,13 +245,13 @@ Enjoy and share!</p>
 </div>
 </div>
 <span id="document-recipes/red_cabbage_salad"></span><div class="section" id="red-cabbage-salad">
-<h1>Red Cabbage Salad<a class="headerlink" href="#red-cabbage-salad" title="Permalink to this headline"> </a></h1>
+<h2>Red Cabbage Salad<a class="headerlink" href="#red-cabbage-salad" title="Permalink to this headline"> </a></h2>
 <div class="line-block">
 <div class="line"><strong>Serves</strong>: 6</div>
 <div class="line"><strong>Equipment</strong>: big bowl</div>
 </div>
 <div class="section" id="ingredients">
-<h2>Ingredients<a class="headerlink" href="#ingredients" title="Permalink to this headline"> </a></h2>
+<h3>Ingredients<a class="headerlink" href="#ingredients" title="Permalink to this headline"> </a></h3>
 <ul class="simple">
 <li><p>1       medium head red cabbage (about 1.5 kg), grated</p></li>
 <li><p>1   t   salt</p></li>
@@ -250,7 +262,7 @@ Enjoy and share!</p>
 </ul>
 </div>
 <div class="section" id="directions">
-<h2>Directions<a class="headerlink" href="#directions" title="Permalink to this headline"> </a></h2>
+<h3>Directions<a class="headerlink" href="#directions" title="Permalink to this headline"> </a></h3>
 <ol class="arabic simple">
 <li><p>In a big bowl, combine the cabbage, salt, and caraway seeds in a large mixing bowl, and thoroughly squeeze the mixture for several minutes to soften the cabbage and release its juice.</p></li>
 <li><p>Mix in the rest of the Ingredients.</p></li>
@@ -259,14 +271,14 @@ Enjoy and share!</p>
 </div>
 </div>
 <span id="document-recipes/tarator"></span><div class="section" id="tarator">
-<h1>Tarator<a class="headerlink" href="#tarator" title="Permalink to this headline"> </a></h1>
+<h2>Tarator<a class="headerlink" href="#tarator" title="Permalink to this headline"> </a></h2>
 <div class="line-block">
 <div class="line"><strong>Serves</strong>: 6</div>
 <div class="line"><strong>Equipment</strong>: big bowl</div>
 </div>
 <p>This is a Bulgarian recipe from my mother.</p>
 <div class="section" id="ingredients">
-<h2>Ingredients<a class="headerlink" href="#ingredients" title="Permalink to this headline"> </a></h2>
+<h3>Ingredients<a class="headerlink" href="#ingredients" title="Permalink to this headline"> </a></h3>
 <ul class="simple">
 <li><p>1   L       yoghurt</p></li>
 <li><p>3   c       water</p></li>
@@ -280,7 +292,7 @@ Enjoy and share!</p>
 </ul>
 </div>
 <div class="section" id="directions">
-<h2>Directions<a class="headerlink" href="#directions" title="Permalink to this headline"> </a></h2>
+<h3>Directions<a class="headerlink" href="#directions" title="Permalink to this headline"> </a></h3>
 <ol class="arabic simple">
 <li><p>In a big bowl, mix the yoghurt and water thoroughly.</p></li>
 <li><p>Mix in the rest of the ingredients.</p></li>
@@ -289,13 +301,13 @@ Enjoy and share!</p>
 </div>
 </div>
 <span id="document-recipes/mashed_kumara"></span><div class="section" id="mashed-kumara">
-<h1>Mashed Kumara<a class="headerlink" href="#mashed-kumara" title="Permalink to this headline"> </a></h1>
+<h2>Mashed Kumara<a class="headerlink" href="#mashed-kumara" title="Permalink to this headline"> </a></h2>
 <div class="line-block">
 <div class="line"><strong>Serves</strong>: 4</div>
 <div class="line"><strong>Equipment</strong>: medium saucepan, steamer basket, small skillet</div>
 </div>
 <div class="section" id="ingredients">
-<h2>Ingredients<a class="headerlink" href="#ingredients" title="Permalink to this headline"> </a></h2>
+<h3>Ingredients<a class="headerlink" href="#ingredients" title="Permalink to this headline"> </a></h3>
 <ul class="simple">
 <li><p>1    c      water</p></li>
 <li><p>1       kg      kumara, cut into 1 cm cubes</p></li>
@@ -306,7 +318,7 @@ Enjoy and share!</p>
 </ul>
 </div>
 <div class="section" id="directions">
-<h2>Directions<a class="headerlink" href="#directions" title="Permalink to this headline"> </a></h2>
+<h3>Directions<a class="headerlink" href="#directions" title="Permalink to this headline"> </a></h3>
 <ol class="arabic simple">
 <li><p>In a medium saucepan with a steamer basket, boil the water and then steam the kumara (with the lid covered) for about 10 minutes, or until soft.</p></li>
 <li><p>Meanwhile, in a small skillet, fry the onion in the coconut oil.</p></li>
@@ -315,13 +327,13 @@ Enjoy and share!</p>
 </div>
 </div>
 <span id="document-recipes/fried_kumara"></span><div class="section" id="fried-kumara">
-<h1>Fried Kumara<a class="headerlink" href="#fried-kumara" title="Permalink to this headline"> </a></h1>
+<h2>Fried Kumara<a class="headerlink" href="#fried-kumara" title="Permalink to this headline"> </a></h2>
 <div class="line-block">
 <div class="line"><strong>Serves</strong>: 2</div>
 <div class="line"><strong>Equipment</strong>: large skillet with lid</div>
 </div>
 <div class="section" id="ingredients">
-<h2>Ingredients<a class="headerlink" href="#ingredients" title="Permalink to this headline"> </a></h2>
+<h3>Ingredients<a class="headerlink" href="#ingredients" title="Permalink to this headline"> </a></h3>
 <ul class="simple">
 <li><p>1       large kumara, cut into 5mm-thick slices</p></li>
 <li><p>2   T   coconut oil</p></li>
@@ -331,7 +343,7 @@ Enjoy and share!</p>
 </ul>
 </div>
 <div class="section" id="directions">
-<h2>Directions<a class="headerlink" href="#directions" title="Permalink to this headline"> </a></h2>
+<h3>Directions<a class="headerlink" href="#directions" title="Permalink to this headline"> </a></h3>
 <ol class="arabic simple">
 <li><p>Heat the large skillet with the coconut oil over medium heat and fry the kumara covered for 7 minutes or until lightly browned on one side.</p></li>
 <li><p>Flip the kumara and fry uncovered for 4 minutes or until lightly browned on the other side.</p></li>
@@ -340,14 +352,14 @@ Enjoy and share!</p>
 </div>
 </div>
 <span id="document-recipes/almond_rolls"></span><div class="section" id="almond-rolls">
-<h1>Almond Rolls<a class="headerlink" href="#almond-rolls" title="Permalink to this headline"> </a></h1>
+<h2>Almond Rolls<a class="headerlink" href="#almond-rolls" title="Permalink to this headline"> </a></h2>
 <div class="line-block">
 <div class="line"><strong>Makes</strong>: 9 medium-sized rolls</div>
 <div class="line"><strong>Equipment</strong>: mixing bowl, baking tray with grease or parchment paper</div>
 </div>
 <p>Finally, a delicious low-carbohydrate vector for cheese!</p>
 <div class="section" id="ingredients">
-<h2>Ingredients<a class="headerlink" href="#ingredients" title="Permalink to this headline"> </a></h2>
+<h3>Ingredients<a class="headerlink" href="#ingredients" title="Permalink to this headline"> </a></h3>
 <ul class="simple">
 <li><p>150 g or 1½ c  almond flour or ground almonds</p></li>
 <li><p>45 g or ½ c    psyllium husk</p></li>
@@ -360,7 +372,7 @@ Enjoy and share!</p>
 </ul>
 </div>
 <div class="section" id="directions">
-<h2>Directions<a class="headerlink" href="#directions" title="Permalink to this headline"> </a></h2>
+<h3>Directions<a class="headerlink" href="#directions" title="Permalink to this headline"> </a></h3>
 <ol class="arabic simple">
 <li><p>Combine all the ingredients and let stand for 10 minutes, so the psyllium husk absorbs much of the liquid.</p></li>
 <li><p>Preheat the oven to 180°C.</p></li>
@@ -369,7 +381,7 @@ Enjoy and share!</p>
 </div>
 </div>
 <span id="document-recipes/frylet"></span><div class="section" id="frylet">
-<h1>Frylet<a class="headerlink" href="#frylet" title="Permalink to this headline"> </a></h1>
+<h2>Frylet<a class="headerlink" href="#frylet" title="Permalink to this headline"> </a></h2>
 <div class="line-block">
 <div class="line"><strong>Serves</strong>: 1 person</div>
 <div class="line"><strong>Equipment</strong>: skillet</div>
@@ -377,7 +389,7 @@ Enjoy and share!</p>
 <p>I’ve been eating this for breakfast with a salad for last five years.
 You think i’d tire of it, but no!</p>
 <div class="section" id="ingredients">
-<h2>Ingredients<a class="headerlink" href="#ingredients" title="Permalink to this headline"> </a></h2>
+<h3>Ingredients<a class="headerlink" href="#ingredients" title="Permalink to this headline"> </a></h3>
 <ul class="simple">
 <li><p>¼ c   onion, julienned</p></li>
 <li><p>1 T   butter</p></li>
@@ -389,7 +401,7 @@ You think i’d tire of it, but no!</p>
 </ul>
 </div>
 <div class="section" id="directions">
-<h2>Directions<a class="headerlink" href="#directions" title="Permalink to this headline"> </a></h2>
+<h3>Directions<a class="headerlink" href="#directions" title="Permalink to this headline"> </a></h3>
 <ol class="arabic simple">
 <li><p>Heat the skillet over medium-high heat, add 1 t butter, and sauté the onion covered until golden brown.</p></li>
 <li><p>Push the onion to the skillet’s perimeter and add the rest of the butter and the chili flakes.</p></li>
@@ -400,13 +412,13 @@ You think i’d tire of it, but no!</p>
 </div>
 </div>
 <span id="document-recipes/mung_dal"></span><div class="section" id="mung-dal">
-<h1>Mung Dal<a class="headerlink" href="#mung-dal" title="Permalink to this headline"> </a></h1>
+<h2>Mung Dal<a class="headerlink" href="#mung-dal" title="Permalink to this headline"> </a></h2>
 <div class="line-block">
 <div class="line"><strong>Serves</strong>: 6</div>
 <div class="line"><strong>Equipment</strong>: pressure cooker, small saucepan</div>
 </div>
 <div class="section" id="ingredients">
-<h2>Ingredients<a class="headerlink" href="#ingredients" title="Permalink to this headline"> </a></h2>
+<h3>Ingredients<a class="headerlink" href="#ingredients" title="Permalink to this headline"> </a></h3>
 <ul class="simple">
 <li><p>1½ c     dried mung beans, soaked for at least 4 hours</p></li>
 <li><p>5 c       water</p></li>
@@ -425,7 +437,7 @@ You think i’d tire of it, but no!</p>
 </ul>
 </div>
 <div class="section" id="directions">
-<h2>Directions<a class="headerlink" href="#directions" title="Permalink to this headline"> </a></h2>
+<h3>Directions<a class="headerlink" href="#directions" title="Permalink to this headline"> </a></h3>
 <ol class="arabic simple">
 <li><p>Reserve 1 T coconut oil, the cumin seeds, mustard seeds, and salt. Put everything else into a pressure cooker, and cook at high pressure for 11 minutes.</p></li>
 <li><p>In a small saucepan, fry the reserved coconut oil, cumin seeds, and mustard seeds until the mustard seeds begin to pop.</p></li>
@@ -434,13 +446,13 @@ You think i’d tire of it, but no!</p>
 </div>
 </div>
 <span id="document-recipes/chana_dal"></span><div class="section" id="chana-dal">
-<h1>Chana Dal<a class="headerlink" href="#chana-dal" title="Permalink to this headline"> </a></h1>
+<h2>Chana Dal<a class="headerlink" href="#chana-dal" title="Permalink to this headline"> </a></h2>
 <div class="line-block">
 <div class="line"><strong>Serves</strong>: 6</div>
 <div class="line"><strong>Equipment</strong>: pressure cooker, skillet</div>
 </div>
 <div class="section" id="ingredients">
-<h2>Ingredients<a class="headerlink" href="#ingredients" title="Permalink to this headline"> </a></h2>
+<h3>Ingredients<a class="headerlink" href="#ingredients" title="Permalink to this headline"> </a></h3>
 <ul class="simple">
 <li><p>1½ c     dried chana dal or yellow split peas, washed and soaked for at least 1 hour</p></li>
 <li><p>6 c       water</p></li>
@@ -456,7 +468,7 @@ You think i’d tire of it, but no!</p>
 </ul>
 </div>
 <div class="section" id="directions">
-<h2>Directions<a class="headerlink" href="#directions" title="Permalink to this headline"> </a></h2>
+<h3>Directions<a class="headerlink" href="#directions" title="Permalink to this headline"> </a></h3>
 <ol class="arabic simple">
 <li><p>Put the chana dal, water, turmeric, ginger, and 1 T ghee into a pressure cooker, and cook at high pressure for 10 minutes.</p></li>
 <li><p>In a skillet, fry the reserved ghee and onions until golden. Then add the cumin seeds and garlic and stir fry until the garlic is lightly brown.</p></li>
@@ -465,13 +477,13 @@ You think i’d tire of it, but no!</p>
 </div>
 </div>
 <span id="document-recipes/masoor_dal"></span><div class="section" id="masoor-dal-with-kumara">
-<h1>Masoor Dal with Kumara<a class="headerlink" href="#masoor-dal-with-kumara" title="Permalink to this headline"> </a></h1>
+<h2>Masoor Dal with Kumara<a class="headerlink" href="#masoor-dal-with-kumara" title="Permalink to this headline"> </a></h2>
 <div class="line-block">
 <div class="line"><strong>Serves</strong>: 4</div>
 <div class="line"><strong>Equipment</strong>: large pot</div>
 </div>
 <div class="section" id="ingredients">
-<h2>Ingredients<a class="headerlink" href="#ingredients" title="Permalink to this headline"> </a></h2>
+<h3>Ingredients<a class="headerlink" href="#ingredients" title="Permalink to this headline"> </a></h3>
 <ul class="simple">
 <li><p>2 T coconut oil</p></li>
 <li><p>1 red onion, finely chopped</p></li>
@@ -490,7 +502,7 @@ You think i’d tire of it, but no!</p>
 </ul>
 </div>
 <div class="section" id="directions">
-<h2>Directions<a class="headerlink" href="#directions" title="Permalink to this headline"> </a></h2>
+<h3>Directions<a class="headerlink" href="#directions" title="Permalink to this headline"> </a></h3>
 <ol class="arabic simple">
 <li><p>Cook the onion in the coconut oil over medium heat until soft, about 2 minutes.</p></li>
 <li><p>Add the garlic, ginger, and chili and cook for 30 seconds.</p></li>
@@ -503,61 +515,59 @@ You think i’d tire of it, but no!</p>
 </div>
 </div>
 <span id="document-recipes/chickpea_curry"></span><div class="section" id="chickpea-curry">
-<h1>Chickpea Curry<a class="headerlink" href="#chickpea-curry" title="Permalink to this headline"> </a></h1>
+<h2>Chickpea Curry<a class="headerlink" href="#chickpea-curry" title="Permalink to this headline"> </a></h2>
 <div class="line-block">
 <div class="line"><strong>Serves</strong>: 4</div>
-<div class="line"><strong>Equipment</strong>: pressure cooker, large sauce pan</div>
+<div class="line"><strong>Equipment</strong>: large sauce pan</div>
 </div>
-<p>This is the spiciest, as in highest spice count, dish i’ve ever cooked!
+<p>This is the spiciest (highest spice count) dish i’ve ever cooked.
 It is also my favorite Hare Krishna recipe.</p>
 <div class="section" id="ingredients">
-<h2>Ingredients<a class="headerlink" href="#ingredients" title="Permalink to this headline"> </a></h2>
+<h3>Ingredients<a class="headerlink" href="#ingredients" title="Permalink to this headline"> </a></h3>
 <ul class="simple">
-<li><p>1   c   dry chickpeas, soaked for at least 4 hours</p></li>
-<li><p>3   c   water</p></li>
-<li><p>1   T   coconut oil</p></li>
-<li><p>½     t   ground cinnamon</p></li>
-<li><p>1   T   fennel seeds</p></li>
-<li><p>⅛     c   curry leaves</p></li>
-<li><p>½     T   asafetida</p></li>
-<li><p>400     mL  coconut cream</p></li>
-<li><p>400     mL  chopped tomato</p></li>
-<li><p>½         kumara, diced</p></li>
-<li><p>½     T   ground fennel seeds</p></li>
-<li><p>¾     T   ground coriander seeds</p></li>
-<li><p>¾     T   ground fenugreek</p></li>
-<li><p>½     T   ground turmeric</p></li>
-<li><p>½     t   chili powder</p></li>
-<li><p>¼     T   garam masala</p></li>
-<li><p>1   T   channa masala</p></li>
-<li><p>1       head broccoli, chopped</p></li>
-<li><p>1   t   tamarind concentrate</p></li>
-<li><p>1   t   salt or to taste</p></li>
-<li><p>some        chopped coriander for garnish</p></li>
+<li><p>3 c water</p></li>
+<li><p>1 T coconut oil</p></li>
+<li><p>½ t ground cinnamon</p></li>
+<li><p>1 T fennel seed</p></li>
+<li><p>⅛ c curry leaf</p></li>
+<li><p>1½ t asafetida</p></li>
+<li><p>400 mL coconut cream</p></li>
+<li><p>400 mL chopped tomato</p></li>
+<li><p>½ kumara, diced</p></li>
+<li><p>1½ t ground fennel seed</p></li>
+<li><p>2 t ground coriander seed</p></li>
+<li><p>2 t ground fenugreek</p></li>
+<li><p>1½ t ground turmeric</p></li>
+<li><p>½ t chili powder</p></li>
+<li><p>¾ t garam masala</p></li>
+<li><p>1 T channa masala</p></li>
+<li><p>1 head broccoli, chopped</p></li>
+<li><p>1 t tamarind concentrate</p></li>
+<li><p>500 g cooked chickpeas (about two 400 mL cans worth)</p></li>
+<li><p>1 t salt or to taste</p></li>
+<li><p>some chopped coriander leaf for topping</p></li>
 </ul>
 </div>
 <div class="section" id="directions">
-<h2>Directions<a class="headerlink" href="#directions" title="Permalink to this headline"> </a></h2>
+<h3>Directions<a class="headerlink" href="#directions" title="Permalink to this headline"> </a></h3>
 <ol class="arabic simple">
-<li><p>Pressure cook the chickpeas and water at high pressure for 18 minutes, separate the liquid from the beans, and set aside both.</p></li>
-<li><p>In the meantime, in a large saucepan, heat the coconut oil and sauté the cinnamon, unground fennel seeds, curry leaves, and asafetida until fragrant.</p></li>
+<li><p>In a large saucepan, heat the coconut oil and sauté the cinnamon, unground fennel seed, curry leaf, and asafetida until fragrant.</p></li>
 <li><p>Add the coconut cream, chopped tomato, and kumara, and bring to a boil.</p></li>
 <li><p>Reduce heat to simmer and add the remaining spices.</p></li>
-<li><p>Cook until the kumara is just short of tender, about 8 minutes.</p></li>
-<li><p>Add the broccoli and tamarind and cook for another 5 minutes.</p></li>
-<li><p>Add the cooked chickpeas and enough chickpea liquid to thin.</p></li>
-<li><p>Garnish with coriander and serve.</p></li>
+<li><p>Cook for 5 minutes, add the broccoli, and cook for 8 more minutes, or until the kumara is tender.</p></li>
+<li><p>Mix in the tamarind concentrate, cooked chickpeas, salt, and maybe some water to thin the curry.</p></li>
+<li><p>Top with coriander leaf and serve.</p></li>
 </ol>
 </div>
 </div>
 <span id="document-recipes/pumpkin_curry"></span><div class="section" id="pumpkin-curry">
-<h1>Pumpkin Curry<a class="headerlink" href="#pumpkin-curry" title="Permalink to this headline"> </a></h1>
+<h2>Pumpkin Curry<a class="headerlink" href="#pumpkin-curry" title="Permalink to this headline"> </a></h2>
 <div class="line-block">
 <div class="line"><strong>Serves</strong>: 4</div>
 <div class="line"><strong>Equipment</strong>: pressure cooker</div>
 </div>
 <div class="section" id="ingredients">
-<h2>Ingredients<a class="headerlink" href="#ingredients" title="Permalink to this headline"> </a></h2>
+<h3>Ingredients<a class="headerlink" href="#ingredients" title="Permalink to this headline"> </a></h3>
 <ul class="simple">
 <li><p>1   T   coconut oil</p></li>
 <li><p>1       onion, peeled and coarsley chopped</p></li>
@@ -578,7 +588,7 @@ It is also my favorite Hare Krishna recipe.</p>
 </ul>
 </div>
 <div class="section" id="directions">
-<h2>Directions<a class="headerlink" href="#directions" title="Permalink to this headline"> </a></h2>
+<h3>Directions<a class="headerlink" href="#directions" title="Permalink to this headline"> </a></h3>
 <ol class="arabic simple">
 <li><p>Sauté the onion with the coconut oil in the pressure cooker for 2 minutes.</p></li>
 <li><p>Add the rest of the ingredients, except the salt, lemon juice and coriander, and cook at high pressure for 6 minutes.</p></li>
@@ -587,13 +597,13 @@ It is also my favorite Hare Krishna recipe.</p>
 </div>
 </div>
 <span id="document-recipes/chili"></span><div class="section" id="chili">
-<h1>Chili<a class="headerlink" href="#chili" title="Permalink to this headline"> </a></h1>
+<h2>Chili<a class="headerlink" href="#chili" title="Permalink to this headline"> </a></h2>
 <div class="line-block">
 <div class="line"><strong>Serves</strong>: 6</div>
 <div class="line"><strong>Equipment</strong>: pressure cooker</div>
 </div>
 <div class="section" id="ingredients">
-<h2>Ingredients<a class="headerlink" href="#ingredients" title="Permalink to this headline"> </a></h2>
+<h3>Ingredients<a class="headerlink" href="#ingredients" title="Permalink to this headline"> </a></h3>
 <ul class="simple">
 <li><p>3   T   olive oil</p></li>
 <li><p>1       onion, diced</p></li>
@@ -618,7 +628,7 @@ It is also my favorite Hare Krishna recipe.</p>
 </ul>
 </div>
 <div class="section" id="directions">
-<h2>Directions<a class="headerlink" href="#directions" title="Permalink to this headline"> </a></h2>
+<h3>Directions<a class="headerlink" href="#directions" title="Permalink to this headline"> </a></h3>
 <ol class="arabic simple">
 <li><p>In a pressure cooker, heat 1 T olive oil and sauté the onion, garlic, capsicum, and chilis until golden.</p></li>
 <li><p>Add in everything else except the salt and coriander, and pressure cook at high pressure for however long the slowest cooking bean needs, e.g. 14 minutes for a kidney bean + pinto bean + mung bean combination.</p></li>
@@ -627,14 +637,14 @@ It is also my favorite Hare Krishna recipe.</p>
 </div>
 </div>
 <span id="document-recipes/moroccan_chili"></span><div class="section" id="moroccan-chili">
-<h1>Moroccan Chili<a class="headerlink" href="#moroccan-chili" title="Permalink to this headline"> </a></h1>
+<h2>Moroccan Chili<a class="headerlink" href="#moroccan-chili" title="Permalink to this headline"> </a></h2>
 <div class="line-block">
 <div class="line"><strong>Serves</strong>: 6</div>
 <div class="line"><strong>Equipment</strong>: pressure cooker</div>
 </div>
 <p>This one comes from Lorna Sass.</p>
 <div class="section" id="ingredients">
-<h2>Ingredients<a class="headerlink" href="#ingredients" title="Permalink to this headline"> </a></h2>
+<h3>Ingredients<a class="headerlink" href="#ingredients" title="Permalink to this headline"> </a></h3>
 <ul class="simple">
 <li><p>1 orange juiced</p></li>
 <li><p>12 cloves</p></li>
@@ -656,7 +666,7 @@ It is also my favorite Hare Krishna recipe.</p>
 </ul>
 </div>
 <div class="section" id="directions">
-<h2>Directions<a class="headerlink" href="#directions" title="Permalink to this headline"> </a></h2>
+<h3>Directions<a class="headerlink" href="#directions" title="Permalink to this headline"> </a></h3>
 <ol class="arabic simple">
 <li><p>In a pressure cooker, heat the olive oil and sauté the garlic, onions, and leeks until the leeks begin to soften, about 2 minutes. Add the mushrooms, carrots, celery, and capsicum, and cook another minute over medium-high heat, stirring frequently.</p></li>
 <li><p>Add in the rest of the ingredients.</p></li>
@@ -666,14 +676,14 @@ It is also my favorite Hare Krishna recipe.</p>
 </div>
 </div>
 <span id="document-recipes/italian_lentil_soup"></span><div class="section" id="italian-lentil-soup">
-<h1>Italian Lentil Soup<a class="headerlink" href="#italian-lentil-soup" title="Permalink to this headline"> </a></h1>
+<h2>Italian Lentil Soup<a class="headerlink" href="#italian-lentil-soup" title="Permalink to this headline"> </a></h2>
 <div class="line-block">
 <div class="line"><strong>Serves</strong>: 6</div>
 <div class="line"><strong>Equipment</strong>: pressure cooker</div>
 </div>
 <p>This one comes from Lorna Sass.</p>
 <div class="section" id="ingredients">
-<h2>Ingredients<a class="headerlink" href="#ingredients" title="Permalink to this headline"> </a></h2>
+<h3>Ingredients<a class="headerlink" href="#ingredients" title="Permalink to this headline"> </a></h3>
 <ul class="simple">
 <li><p>6   c   water</p></li>
 <li><p>2   c   brown lentils, rinsed</p></li>
@@ -694,7 +704,7 @@ It is also my favorite Hare Krishna recipe.</p>
 </ul>
 </div>
 <div class="section" id="directions">
-<h2>Directions<a class="headerlink" href="#directions" title="Permalink to this headline"> </a></h2>
+<h3>Directions<a class="headerlink" href="#directions" title="Permalink to this headline"> </a></h3>
 <ol class="arabic simple">
 <li><p>Put everything except the tomato paste, vinegar, and salt in a pressure cooker, and pressure cook everything at high pressure for 11 minutes.</p></li>
 <li><p>Remove the bay leaves, add the vinegar and salt, dissolve the tomato paste in a cup of soup, and stir the cup back into the soup. Garnish with parsley and serve.</p></li>
@@ -702,14 +712,14 @@ It is also my favorite Hare Krishna recipe.</p>
 </div>
 </div>
 <span id="document-recipes/minestrone"></span><div class="section" id="almost-minestrone">
-<h1>Almost Minestrone<a class="headerlink" href="#almost-minestrone" title="Permalink to this headline"> </a></h1>
+<h2>Almost Minestrone<a class="headerlink" href="#almost-minestrone" title="Permalink to this headline"> </a></h2>
 <div class="line-block">
 <div class="line"><strong>Serves</strong>: 6</div>
 <div class="line"><strong>Equipment</strong>: pressure cooker</div>
 </div>
 <p>I say almost, because there’s no pasta or rice.</p>
 <div class="section" id="ingredients">
-<h2>Ingredients<a class="headerlink" href="#ingredients" title="Permalink to this headline"> </a></h2>
+<h3>Ingredients<a class="headerlink" href="#ingredients" title="Permalink to this headline"> </a></h3>
 <ul class="simple">
 <li><p>3   T   olive oil</p></li>
 <li><p>1       onion, diced</p></li>
@@ -730,7 +740,7 @@ It is also my favorite Hare Krishna recipe.</p>
 </ul>
 </div>
 <div class="section" id="directions">
-<h2>Directions<a class="headerlink" href="#directions" title="Permalink to this headline"> </a></h2>
+<h3>Directions<a class="headerlink" href="#directions" title="Permalink to this headline"> </a></h3>
 <ol class="arabic simple">
 <li><p>In a pressure cooker, heat 1 T olive oil and sauté the onion and garlic until golden.</p></li>
 <li><p>Add in everything else except the salt, and pressure cook at high pressure for however long the slowest cooking bean needs, e.g. 14 minutes for a kidney bean + lentils combination.</p></li>
@@ -739,13 +749,13 @@ It is also my favorite Hare Krishna recipe.</p>
 </div>
 </div>
 <span id="document-recipes/african_peanut_stew"></span><div class="section" id="african-peanut-stew">
-<h1>African Peanut Stew<a class="headerlink" href="#african-peanut-stew" title="Permalink to this headline"> </a></h1>
+<h2>African Peanut Stew<a class="headerlink" href="#african-peanut-stew" title="Permalink to this headline"> </a></h2>
 <div class="line-block">
 <div class="line"><strong>Serves</strong>: 5</div>
 <div class="line"><strong>Equipment</strong>: pressure cooker</div>
 </div>
 <div class="section" id="ingredients">
-<h2>Ingredients<a class="headerlink" href="#ingredients" title="Permalink to this headline"> </a></h2>
+<h3>Ingredients<a class="headerlink" href="#ingredients" title="Permalink to this headline"> </a></h3>
 <ul class="simple">
 <li><p>1 T olive oil</p></li>
 <li><p>1 medium onion, chopped</p></li>
@@ -763,7 +773,7 @@ It is also my favorite Hare Krishna recipe.</p>
 </ul>
 </div>
 <div class="section" id="directions">
-<h2>Directions<a class="headerlink" href="#directions" title="Permalink to this headline"> </a></h2>
+<h3>Directions<a class="headerlink" href="#directions" title="Permalink to this headline"> </a></h3>
 <ol class="arabic simple">
 <li><p>In the pressure cooker, heat the oil, then sauté the onion and garlic until the onion becomes soft and translucent, about 3 minutes.</p></li>
 <li><p>Add the remaining ingredients, except for the salt and garnish, and cook at high pressure for 7 minutes, or until the kumara is tender.</p></li>
@@ -771,8 +781,16 @@ It is also my favorite Hare Krishna recipe.</p>
 </ol>
 </div>
 </div>
+</div>
+</div>
+<span id="document-sweet"></span><div class="section" id="sweet-recipes">
+<h1>Sweet Recipes<a class="headerlink" href="#sweet-recipes" title="Permalink to this headline"> </a></h1>
+<p>Every vege head has a sweet tooth, probably a rotting molar, and this book is no exception.
+So here is a section of sweet recipes, all of which conform to the letter of the grain-free law but clearly contradict it’s low-carb spirit.
+You have been warned.</p>
+<div class="toctree-wrapper compound">
 <span id="document-recipes/black_bean_brownies"></span><div class="section" id="black-bean-brownies">
-<h1>Black Bean Brownies<a class="headerlink" href="#black-bean-brownies" title="Permalink to this headline"> </a></h1>
+<h2>Black Bean Brownies<a class="headerlink" href="#black-bean-brownies" title="Permalink to this headline"> </a></h2>
 <div class="line-block">
 <div class="line"><strong>Makes</strong>: 12 brownies</div>
 <div class="line"><strong>Equipment</strong>: food processor, baking dish</div>
@@ -780,7 +798,7 @@ It is also my favorite Hare Krishna recipe.</p>
 <p>The chia seed and water combination used in this recipe is a clever vegan substitute for eggs.
 Serve with a creamy topping, such as, yogurt.</p>
 <div class="section" id="ingredients">
-<h2>Ingredients<a class="headerlink" href="#ingredients" title="Permalink to this headline"> </a></h2>
+<h3>Ingredients<a class="headerlink" href="#ingredients" title="Permalink to this headline"> </a></h3>
 <ul class="simple">
 <li><p>2 T chia seeds or flax seeds + 2 T water</p></li>
 <li><p>400 mL cooked black beans</p></li>
@@ -795,7 +813,7 @@ Serve with a creamy topping, such as, yogurt.</p>
 </ul>
 </div>
 <div class="section" id="instructions">
-<h2>Instructions<a class="headerlink" href="#instructions" title="Permalink to this headline"> </a></h2>
+<h3>Instructions<a class="headerlink" href="#instructions" title="Permalink to this headline"> </a></h3>
 <ol class="arabic simple">
 <li><p>Preheat the oven to 180°C.</p></li>
 <li><p>Grease the baking dish with the coconut oil.</p></li>
@@ -806,13 +824,13 @@ Serve with a creamy topping, such as, yogurt.</p>
 </div>
 </div>
 <span id="document-recipes/nut_butter_muffins"></span><div class="section" id="nut-butter-muffins">
-<h1>Nut Butter Muffins<a class="headerlink" href="#nut-butter-muffins" title="Permalink to this headline"> </a></h1>
+<h2>Nut Butter Muffins<a class="headerlink" href="#nut-butter-muffins" title="Permalink to this headline"> </a></h2>
 <div class="line-block">
 <div class="line"><strong>Serves</strong>: 9</div>
 <div class="line"><strong>Equipment</strong>: mixing bowl, baking mold for 9 muffins</div>
 </div>
 <div class="section" id="ingredients">
-<h2>Ingredients<a class="headerlink" href="#ingredients" title="Permalink to this headline"> </a></h2>
+<h3>Ingredients<a class="headerlink" href="#ingredients" title="Permalink to this headline"> </a></h3>
 <ul class="simple">
 <li><p>1   c   nut butter such as peanut or almond</p></li>
 <li><p>2       large spotty bananas</p></li>
@@ -824,7 +842,7 @@ Serve with a creamy topping, such as, yogurt.</p>
 </ul>
 </div>
 <div class="section" id="directions">
-<h2>Directions<a class="headerlink" href="#directions" title="Permalink to this headline"> </a></h2>
+<h3>Directions<a class="headerlink" href="#directions" title="Permalink to this headline"> </a></h3>
 <ol class="arabic simple">
 <li><p>Preheat the oven to 180°C.</p></li>
 <li><p>In a big bowl, mix until smooth all the ingredients except the berries.</p></li>
@@ -833,20 +851,20 @@ Serve with a creamy topping, such as, yogurt.</p>
 </ol>
 </div>
 <div class="section" id="variation">
-<h2>Variation<a class="headerlink" href="#variation" title="Permalink to this headline"> </a></h2>
+<h3>Variation<a class="headerlink" href="#variation" title="Permalink to this headline"> </a></h3>
 <ul class="simple">
 <li><p>Add 1/4 c cocoa to the mix.</p></li>
 </ul>
 </div>
 </div>
 <span id="document-recipes/chocolate_tempered"></span><div class="section" id="chocolate-tempered">
-<h1>Chocolate Tempered<a class="headerlink" href="#chocolate-tempered" title="Permalink to this headline"> </a></h1>
+<h2>Chocolate Tempered<a class="headerlink" href="#chocolate-tempered" title="Permalink to this headline"> </a></h2>
 <div class="line-block">
 <div class="line"><strong>Makes</strong>: 185g</div>
 <div class="line"><strong>Equipment</strong>: sauce pan, grater, thermometer, chocolate mold (optional)</div>
 </div>
 <div class="section" id="ingredients">
-<h2>Ingredients<a class="headerlink" href="#ingredients" title="Permalink to this headline"> </a></h2>
+<h3>Ingredients<a class="headerlink" href="#ingredients" title="Permalink to this headline"> </a></h3>
 <ul class="simple">
 <li><p>100   g   cocoa butter</p></li>
 <li><p>80    g   cocoa powder</p></li>
@@ -855,7 +873,7 @@ Serve with a creamy topping, such as, yogurt.</p>
 </ul>
 </div>
 <div class="section" id="directions">
-<h2>Directions<a class="headerlink" href="#directions" title="Permalink to this headline"> </a></h2>
+<h3>Directions<a class="headerlink" href="#directions" title="Permalink to this headline"> </a></h3>
 <ol class="arabic simple">
 <li><p>Finely grate 1% of the cocoa butter (1 g) or a little more and set aside</p></li>
 <li><p>Melt the remaining 99% of the cocoa butter in a sauce pan or double boiler until it reaches 46°C</p></li>
@@ -867,14 +885,14 @@ Serve with a creamy topping, such as, yogurt.</p>
 </ol>
 </div>
 <div class="section" id="variations">
-<h2>Variations<a class="headerlink" href="#variations" title="Permalink to this headline"> </a></h2>
+<h3>Variations<a class="headerlink" href="#variations" title="Permalink to this headline"> </a></h3>
 <ul class="simple">
 <li><p>Replace the vanilla with 2 t of diced peppermint leaves</p></li>
 <li><p>Add ½ t orange zest, ½ t cinnamon, and ½ t ground chili</p></li>
 </ul>
 </div>
 <div class="section" id="notes">
-<h2>Notes<a class="headerlink" href="#notes" title="Permalink to this headline"> </a></h2>
+<h3>Notes<a class="headerlink" href="#notes" title="Permalink to this headline"> </a></h3>
 <p>The heating and cooling to specific temperatures in this recipe tempers the chocolate so that it hardens and remains hard at room temperature.
 Also, including liquids in this recipe would ruin or make very difficult the tempering.</p>
 <p>If you don’t want to temper the chocolate, you can skip steps 4, 5, and 7 and cool the chocolate in the refrigerator, but you better keep it there.
@@ -882,13 +900,13 @@ Bringing the chocolate back to room temperature will probably cause melting and 
 </div>
 </div>
 <span id="document-recipes/chocolate"></span><div class="section" id="chocolate">
-<h1>Chocolate<a class="headerlink" href="#chocolate" title="Permalink to this headline"> </a></h1>
+<h2>Chocolate<a class="headerlink" href="#chocolate" title="Permalink to this headline"> </a></h2>
 <div class="line-block">
 <div class="line"><strong>Makes</strong>: 185g</div>
 <div class="line"><strong>Equipment</strong>: sauce pan, chocolate mold (optional)</div>
 </div>
 <div class="section" id="ingredients">
-<h2>Ingredients<a class="headerlink" href="#ingredients" title="Permalink to this headline"> </a></h2>
+<h3>Ingredients<a class="headerlink" href="#ingredients" title="Permalink to this headline"> </a></h3>
 <ul class="simple">
 <li><p>50    g   cocoa butter</p></li>
 <li><p>50    g   coconut oil</p></li>
@@ -900,7 +918,7 @@ Bringing the chocolate back to room temperature will probably cause melting and 
 </ul>
 </div>
 <div class="section" id="directions">
-<h2>Directions<a class="headerlink" href="#directions" title="Permalink to this headline"> </a></h2>
+<h3>Directions<a class="headerlink" href="#directions" title="Permalink to this headline"> </a></h3>
 <ol class="arabic simple">
 <li><p>Liquify the cocoa butter and coconut oil over medium heat in a sauce pan or double boiler</p></li>
 <li><p>Remove from heat and thoroughly mix in the remaining ingredients</p></li>
@@ -909,20 +927,20 @@ Bringing the chocolate back to room temperature will probably cause melting and 
 </ol>
 </div>
 <div class="section" id="variations">
-<h2>Variations<a class="headerlink" href="#variations" title="Permalink to this headline"> </a></h2>
+<h3>Variations<a class="headerlink" href="#variations" title="Permalink to this headline"> </a></h3>
 <ul class="simple">
 <li><p>Add 40 g dried cherries or cranberries</p></li>
 </ul>
 </div>
 </div>
 <span id="document-recipes/chocolate_chip_cookies"></span><div class="section" id="chocolate-chip-cookies">
-<h1>Chocolate Chip Cookies<a class="headerlink" href="#chocolate-chip-cookies" title="Permalink to this headline"> </a></h1>
+<h2>Chocolate Chip Cookies<a class="headerlink" href="#chocolate-chip-cookies" title="Permalink to this headline"> </a></h2>
 <div class="line-block">
 <div class="line"><strong>Makes</strong>: 12 cookies</div>
 <div class="line"><strong>Equipment</strong>: food processor, large bowl, baking tray</div>
 </div>
 <div class="section" id="ingredients">
-<h2>Ingredients<a class="headerlink" href="#ingredients" title="Permalink to this headline"> </a></h2>
+<h3>Ingredients<a class="headerlink" href="#ingredients" title="Permalink to this headline"> </a></h3>
 <ul class="simple">
 <li><p>½ c   Medjool dates, pits removed</p></li>
 <li><p>2   c   almonds</p></li>
@@ -936,7 +954,7 @@ Bringing the chocolate back to room temperature will probably cause melting and 
 </ul>
 </div>
 <div class="section" id="directions">
-<h2>Directions<a class="headerlink" href="#directions" title="Permalink to this headline"> </a></h2>
+<h3>Directions<a class="headerlink" href="#directions" title="Permalink to this headline"> </a></h3>
 <ol class="arabic simple">
 <li><p>Preheat the oven to 180°C.</p></li>
 <li><p>In a food processor, grind the dates, almonds, baking soda, salt, and vanilla into a fine mix.</p></li>
@@ -947,18 +965,18 @@ Bringing the chocolate back to room temperature will probably cause melting and 
 </ol>
 </div>
 <div class="section" id="variation">
-<h2>Variation<a class="headerlink" href="#variation" title="Permalink to this headline"> </a></h2>
+<h3>Variation<a class="headerlink" href="#variation" title="Permalink to this headline"> </a></h3>
 <p>Replace 1 c almonds, the coconut oil, and the shredded coconut with ½ c peanut butter to make peanut butter chocolate chip cookies.</p>
 </div>
 </div>
 <span id="document-recipes/cpbb_pie"></span><div class="section" id="chocolate-peanut-butter-banana-pie">
-<h1>Chocolate Peanut Butter Banana Pie<a class="headerlink" href="#chocolate-peanut-butter-banana-pie" title="Permalink to this headline"> </a></h1>
+<h2>Chocolate Peanut Butter Banana Pie<a class="headerlink" href="#chocolate-peanut-butter-banana-pie" title="Permalink to this headline"> </a></h2>
 <div class="line-block">
 <div class="line"><strong>Serves</strong>: 8</div>
 <div class="line"><strong>Equipment</strong>: pie plate, small sauce pan, large plate, large bowl</div>
 </div>
 <div class="section" id="ingredients">
-<h2>Ingredients<a class="headerlink" href="#ingredients" title="Permalink to this headline"> </a></h2>
+<h3>Ingredients<a class="headerlink" href="#ingredients" title="Permalink to this headline"> </a></h3>
 <ul class="simple">
 <li><p>1   c   diced almonds</p></li>
 <li><p>¼     c   coconut oil</p></li>
@@ -970,7 +988,7 @@ Bringing the chocolate back to room temperature will probably cause melting and 
 </ul>
 </div>
 <div class="section" id="directions">
-<h2>Directions<a class="headerlink" href="#directions" title="Permalink to this headline"> </a></h2>
+<h3>Directions<a class="headerlink" href="#directions" title="Permalink to this headline"> </a></h3>
 <ol class="arabic simple">
 <li><p>Crust.  In a small sauce pan, melt the coconut oil and mix in the almonds.</p></li>
 <li><p>Press into a pie plate.</p></li>
@@ -982,13 +1000,13 @@ Bringing the chocolate back to room temperature will probably cause melting and 
 </div>
 </div>
 <span id="document-recipes/apricot_balls"></span><div class="section" id="apricot-balls">
-<h1>Apricot Balls<a class="headerlink" href="#apricot-balls" title="Permalink to this headline"> </a></h1>
+<h2>Apricot Balls<a class="headerlink" href="#apricot-balls" title="Permalink to this headline"> </a></h2>
 <div class="line-block">
 <div class="line"><strong>Makes</strong>: ~33 tablespoon-size balls</div>
 <div class="line"><strong>Equipment</strong>: food processor</div>
 </div>
 <div class="section" id="ingredients">
-<h2>Ingredients<a class="headerlink" href="#ingredients" title="Permalink to this headline"> </a></h2>
+<h3>Ingredients<a class="headerlink" href="#ingredients" title="Permalink to this headline"> </a></h3>
 <ul class="simple">
 <li><p>¾   c   raw cashews</p></li>
 <li><p>¾   c   raw almonds</p></li>
@@ -1001,7 +1019,7 @@ Bringing the chocolate back to room temperature will probably cause melting and 
 </ul>
 </div>
 <div class="section" id="directions">
-<h2>Directions<a class="headerlink" href="#directions" title="Permalink to this headline"> </a></h2>
+<h3>Directions<a class="headerlink" href="#directions" title="Permalink to this headline"> </a></h3>
 <ol class="arabic simple">
 <li><p>In a food processor, blend all the ingredients except the ginger until homogeneous.</p></li>
 <li><p>Blend in the ginger.</p></li>
@@ -1010,13 +1028,13 @@ Bringing the chocolate back to room temperature will probably cause melting and 
 </div>
 </div>
 <span id="document-recipes/ice_cream"></span><div class="section" id="ice-cream">
-<h1>Ice Cream<a class="headerlink" href="#ice-cream" title="Permalink to this headline"> </a></h1>
+<h2>Ice Cream<a class="headerlink" href="#ice-cream" title="Permalink to this headline"> </a></h2>
 <div class="line-block">
 <div class="line"><strong>Serves</strong>: 4</div>
 <div class="line"><strong>Equipment</strong>: ice cream maker</div>
 </div>
 <div class="section" id="ingredients">
-<h2>Ingredients<a class="headerlink" href="#ingredients" title="Permalink to this headline"> </a></h2>
+<h3>Ingredients<a class="headerlink" href="#ingredients" title="Permalink to this headline"> </a></h3>
 <ul class="simple">
 <li><p>⅛   t   guar gum</p></li>
 <li><p>4         eggs yolks</p></li>
@@ -1026,7 +1044,7 @@ Bringing the chocolate back to room temperature will probably cause melting and 
 </ul>
 </div>
 <div class="section" id="directions">
-<h2>Directions<a class="headerlink" href="#directions" title="Permalink to this headline"> </a></h2>
+<h3>Directions<a class="headerlink" href="#directions" title="Permalink to this headline"> </a></h3>
 <ol class="arabic simple">
 <li><p>In a medium bowl, mix the guar gum with a little bit of cream to make a homogeneous paste with no lumps.</p></li>
 <li><p>Mix the paste with the remaining ingredients.</p></li>
@@ -1034,7 +1052,7 @@ Bringing the chocolate back to room temperature will probably cause melting and 
 </ol>
 </div>
 <div class="section" id="notes">
-<h2>Notes<a class="headerlink" href="#notes" title="Permalink to this headline"> </a></h2>
+<h3>Notes<a class="headerlink" href="#notes" title="Permalink to this headline"> </a></h3>
 <p>The guar gum is to prevent the ice cream from freezing too hard.</p>
 <p>Here are some example flavorings.</p>
 <ul class="simple">
@@ -1048,13 +1066,13 @@ Bringing the chocolate back to room temperature will probably cause melting and 
 </div>
 </div>
 <span id="document-recipes/rhubarb_sauce"></span><div class="section" id="rhubarb-sauce">
-<h1>Rhubarb Sauce<a class="headerlink" href="#rhubarb-sauce" title="Permalink to this headline"> </a></h1>
+<h2>Rhubarb Sauce<a class="headerlink" href="#rhubarb-sauce" title="Permalink to this headline"> </a></h2>
 <div class="line-block">
 <div class="line"><strong>Serves</strong>: 1</div>
 <div class="line"><strong>Equipment</strong>: sauce pan</div>
 </div>
 <div class="section" id="ingredients">
-<h2>Ingredients<a class="headerlink" href="#ingredients" title="Permalink to this headline"> </a></h2>
+<h3>Ingredients<a class="headerlink" href="#ingredients" title="Permalink to this headline"> </a></h3>
 <ul class="simple">
 <li><p>3 ribs rhubarb, leaves removed and finely chopped</p></li>
 <li><p>1 T water</p></li>
@@ -1063,7 +1081,7 @@ Bringing the chocolate back to room temperature will probably cause melting and 
 </ul>
 </div>
 <div class="section" id="directions">
-<h2>Directions<a class="headerlink" href="#directions" title="Permalink to this headline"> </a></h2>
+<h3>Directions<a class="headerlink" href="#directions" title="Permalink to this headline"> </a></h3>
 <ol class="arabic simple">
 <li><p>Combine the rhubarb and water in the sauce pan and cook covered on medium-high for 5 minutes.</p></li>
 <li><p>Add the banana, reduce the heat to medium, and cook covered for 5 more minutes, or until the rhubarb has disintegrated.</p></li>
@@ -1071,9 +1089,38 @@ Bringing the chocolate back to room temperature will probably cause melting and 
 </ol>
 </div>
 </div>
+<span id="document-recipes/banana_kulfi"></span><div class="section" id="banana-kulfi">
+<h2>Banana Kulfi<a class="headerlink" href="#banana-kulfi" title="Permalink to this headline"> </a></h2>
+<div class="line-block">
+<div class="line"><strong>Serves</strong>: 4</div>
+<div class="line"><strong>Equipment</strong>: a mixing bowl and a container for freezing</div>
+</div>
+<p>This recipe is vegan even.</p>
+<div class="section" id="ingredients">
+<h3>Ingredients<a class="headerlink" href="#ingredients" title="Permalink to this headline"> </a></h3>
+<ul class="simple">
+<li><p>2 ripe bananas</p></li>
+<li><p>5 t sugar, date syrup, or maple syrup</p></li>
+<li><p>½ c coconut cream</p></li>
+<li><p>½ c peanut butter</p></li>
+<li><p>1 t vanilla extract</p></li>
+<li><p>a dash of salt</p></li>
+</ul>
+</div>
+<div class="section" id="directions">
+<h3>Directions<a class="headerlink" href="#directions" title="Permalink to this headline"> </a></h3>
+<ol class="arabic simple">
+<li><p>Mix everything in a bowl with a fork, or mix everything in a food processor or blender.</p></li>
+<li><p>Transfer to a container and freeze for 4 hours or until hard.</p></li>
+</ol>
+</div>
+</div>
+</div>
+</div>
 <span id="document-recipes/baking_soda"></span><div class="section" id="hooray-for-baking-soda">
-<h1>Hooray for Baking Soda<a class="headerlink" href="#hooray-for-baking-soda" title="Permalink to this headline"> </a></h1>
-<p>Baking soda, also known as sodium bicarbonate is a versatile chemical compound.Besides baking with it, you can use it as part of</p>
+<h1>Hooray for Baking Soda!<a class="headerlink" href="#hooray-for-baking-soda" title="Permalink to this headline"> </a></h1>
+<p>Baking soda, also known as sodium bicarbonate, is a versatile chemical compound.
+Besides baking with it, you can use it as part of</p>
 <ul class="simple">
 <li><p>Tooth powder: mix three parts baking soda and one part salt and brush your teeth with the stuff</p></li>
 <li><p>Mouthwash: add baking soda to water and rinse to neutralize mouth acids and  kill bacteria</p></li>
@@ -1086,6 +1133,7 @@ Bringing the chocolate back to room temperature will probably cause melting and 
 </div>
 
 
+            <div class="clearer"></div>
           </div>
         </div>
       </div>
