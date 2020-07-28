@@ -1,7 +1,7 @@
 Banana Kulfi
 *************
 | **Serves**: 4
-| **Equipment**: bowl and container for freezing
+| **Equipment**: a mixing bowl and a container for freezing
 
 This recipe is vegan even.
 

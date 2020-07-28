@@ -1,6 +1,7 @@
-Hooray for Baking Soda
+Hooray for Baking Soda!
 ===========================
-Baking soda, also known as sodium bicarbonate is a versatile chemical compound.Besides baking with it, you can use it as part of
+Baking soda, also known as sodium bicarbonate, is a versatile chemical compound.
+Besides baking with it, you can use it as part of
 
 - Tooth powder: mix three parts baking soda and one part salt and brush your teeth with the stuff
 - Mouthwash: add baking soda to water and rinse to neutralize mouth acids and  kill bacteria

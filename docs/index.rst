@@ -2,8 +2,8 @@
     :maxdepth: 2
     :titlesonly:
 
-    introduction
     testimonials
+    introduction
     savory
     sweet
     recipes/baking_soda

@@ -1,8 +1,7 @@
-Sweet
-=====
+Sweet Recipes
+=============
 Every vege head has a sweet tooth, probably a rotting molar, and this book is no exception.
 So here is a section of sweet recipes, all of which conform to the letter of the grain-free law but clearly contradict it's low-carb spirit.
-Sugar is the devil.
 You have been warned.
 
 .. toctree::

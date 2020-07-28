@@ -1,5 +1,5 @@
-Savory
-======
+Savory Recipes
+==================
 
 .. toctree::
 
