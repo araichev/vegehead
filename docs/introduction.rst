@@ -11,17 +11,18 @@ The food should take at most 30 minutes to make, excluding trivial preparation, 
 I enjoy cooking but don’t want to spend a lot of time doing it.
 To fulfill this requirement, many of the recipes use a pressure cooker.
 If you don't have one, then just use a pot and cook for roughly twice as long.
-Oh, i also cheated: some of the recipes, such as the almond rolls, take slightly longer than 30 minutes to make, but those that do are too good to omit.
+I also cheated: some of the recipes, such as the almond rolls, take slightly longer than 30 minutes to make, but those that do are too good to omit.
 
 **Vegetarian**.
 The food should not require the killing of animals.
-I like to minimize the animal suffering involved in my meals and going vegetarian is a step in the right direction.
-Going vegan is a bigger step that i'm not willing to take at present.
+I like to minimize the suffering involved in my meals, and going vegetarian is a step in that direction.
+Going vegan is a bigger step, one that i'm not willing to take at present.
 
 **Pre-industrial**.
 The ingredients should be as close as possible to the ones eaten by our pre-industrial ancestors.
 That rules out 20th-century edible food-like substances (synthetic flavorings, high-fructose corn syrup, skim milk powder, etc.), food grown with synthetic pesticides, and even canned food because of the shady chemical linings used in the cans.
-I don’t trust that stuff, but i get lazy and use canned tomatoes.
+I don't trust that stuff.
+That said, i do get lazy and use canned tomatoes.
 
 **Grain-free**.
 The food should not contain grains: wheat, rice, corn, oats, etc.
