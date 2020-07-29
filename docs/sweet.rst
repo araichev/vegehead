@@ -1,3 +1,5 @@
+.. rst-class:: sweet-section
+
 Sweet Recipes
 =============
 Every vege head has a sweet tooth, probably a rotting molar, and this book is no exception.

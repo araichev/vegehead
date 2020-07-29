@@ -5,7 +5,7 @@
 
 {% block content %}
   <div id="header">
-    <h1>* {{ title }} *</h1>
+    <h1>🍴 {{ title }}</h1>
     A Cookbook<br/>
     Compiled by Alex Raichev<br/>
     Version {{ version }}<br/>
@@ -14,7 +14,7 @@
 
   {% block sidebar1 %}{{ sidebar() }}{% endblock %}
   {% block sidebar2 %}{% endblock %}
-  
+
   {% block document %}{{ super() }}{%- endblock %}
 {% endblock %}
 
