@@ -53,10 +53,17 @@ Notes
 =====
 - To deploy, change to the ``docs`` directory, build the docs via ``make clean singlehtml``, then push with ``ghp-import _build/singlehtml -pnf``.
 - Unicode fractions: ⅛, ¼, ⅓, ½, ⅔, ¾.
+- Good list of food and drink unicode characters `here <https://emojipedia.org/food-drink/>`__.
 
 
 Changes
 ========
+
+3.5.1, 2020-07-30
+-----------------
+- Fixed padding on small screens.
+- Tweaked emojis.
+
 
 3.5.0, 2020-07-29
 -----------------

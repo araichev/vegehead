@@ -1,3 +1,5 @@
+.. rst-class:: savory-section
+
 Savory Recipes
 ==================
 
