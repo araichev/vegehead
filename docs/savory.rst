@@ -5,7 +5,7 @@ Savory Recipes
 
 .. toctree::
 
-    recipes/mayonnaise
+    recipes/aioli
     recipes/hummus
 
     recipes/tempeh_sauerkraut

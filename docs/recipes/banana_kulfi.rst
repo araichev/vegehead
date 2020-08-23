@@ -8,7 +8,7 @@ This recipe is vegan even.
 Ingredients
 ===========
 - 2 ripe bananas
-- 5 t sugar, date syrup, or maple syrup
+- 4--5 t sugar, date syrup, or maple syrup
 - ½ c coconut cream
 - ½ c peanut butter
 - 1 t vanilla extract

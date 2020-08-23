@@ -1,25 +1,25 @@
 Hummus
 =======
 | **Serves**: 4
-| **Equipment**: pressure cooker, food processor
+| **Equipment**: food processor or bowl + whisk
+
+This is most easily prepared with a food processor, but you can also use simple implements such as a whisk, mortar, and pestle.
 
 Ingredients
 ------------
-- 1   c   dry chickpeas, soaked for at least 4 hours
-- 3   c   water
+- 3 c cooked chickpeas, however you manage it
+- a little chickpea liquid for thinning
 - ½  c  tahini
 - ¼  c  lemon juice
 - ¼  c  olive oil
 - 1   t   salt
 - 2       cloves garlic
 - 1   t   cumin
+- a little water for thinning
 
 
 Directions
 -----------
-This is most easily prepared with a food processor, but you can also use simple implements such as a whisk, mortar, and pestle.
 
-#. Pressure cook the chickpeas and water at high pressure for 18 minutes.
-#. Separate the chickpeas and liquid and save both.
-#. In a food processor, whip the tahini and lemon juice.
-#. Add in the remaining ingredients, blend, and thin to your desired consistency with the chickpea liquid.
+#. In a food processor or with a bowl and whisk, whip the tahini and lemon juice.
+#. Add the remaining ingredients, blend, and thin to your desired consistency with the chickpea liquid.

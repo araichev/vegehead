@@ -59,6 +59,15 @@ Notes
 Changes
 ========
 
+3.6.0, 2020-08-23
+-----------------
+- Added aioli recipe.
+- Removed mayonnaise recipe.
+- Tweaked hummus recipe.
+- Tweaked kulfi recipe.
+- Reduced water in chana dal recipe.
+
+
 3.5.1, 2020-07-30
 -----------------
 - Fixed padding on small screens.
