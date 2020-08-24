@@ -40,3 +40,5 @@ Directions
 #. Cook for 5 minutes, add the broccoli, and cook for 8 more minutes, or until the kumara is tender.
 #. Mix in the tamarind concentrate, cooked chickpeas, salt, and maybe some water to thin the curry.
 #. Top with coriander leaf and serve.
+
+:doc:`Back to the table of contents <../toc>`

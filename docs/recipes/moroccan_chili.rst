@@ -34,3 +34,5 @@ Directions
 #. Add in the rest of the ingredients.
 #. Bring to high pressure and cook there for 11 minutes.
 #. Add salt and pepper and serve.
+
+:doc:`Back to the table of contents <../toc>`

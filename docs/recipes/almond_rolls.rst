@@ -25,3 +25,5 @@ Directions
 #. Combine all the ingredients and let stand for 10 minutes, so the psyllium husk absorbs much of the liquid.
 #. Preheat the oven to 180 |o| C.
 #. Shape the mix into rolls, place on a greased or parchment-papered baking tray, and bake for 30 minutes or until golden brown.
+
+:doc:`Back to the table of contents <../toc>`

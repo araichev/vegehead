@@ -22,3 +22,5 @@ Directions
 #. Filling.  Melt the chocolate in a double-boiler (a large plate on top of a small sauce pan of simmering water)
 #. In a large bowl, mix the melted chocolate, peanut butter, tofu, and maple syrup into a homogenous goo.
 #. Pour the goo into the crust and chill for an hour.
+
+:doc:`Back to the table of contents <../toc>`

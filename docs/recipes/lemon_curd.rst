@@ -17,3 +17,5 @@ Directions
 #. Melt the butter in a sauce pan over low heat
 #. Mix in the rest of ingredients, eggs last, and stir periodically until thick
 #. Chill then serve
+
+:doc:`Back to the table of contents <../toc>`

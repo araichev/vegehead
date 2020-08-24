@@ -23,3 +23,5 @@ Directions
 1. Put the chana dal, water, turmeric, ginger, and 1 T ghee into a pressure cooker, and cook at high pressure for 10 minutes.
 2. In a skillet, fry the reserved ghee and onions until golden. Then add the cumin seeds and garlic and stir fry until the garlic is lightly brown.
 3. Add the fried stuff and chili powder to the cooked soup, garnish with coriander leaf, and serve.
+
+:doc:`Back to the table of contents <../toc>`

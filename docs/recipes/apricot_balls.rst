@@ -20,3 +20,5 @@ Directions
 #. In a food processor, blend all the ingredients except the ginger until homogeneous.
 #. Blend in the ginger.
 #. Shape into balls.
+
+:doc:`Back to the table of contents <../toc>`

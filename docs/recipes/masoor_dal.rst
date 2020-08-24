@@ -31,3 +31,5 @@ Directions
 #. Reduce heat and simmer for 10 minutes, or until the the lentils and kumara are tender.
 #. Mix in the spinach and cook for 1 minute.
 #. Add the salt and serve with spring onion garnish.
+
+:doc:`Back to the table of contents <../toc>`

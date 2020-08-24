@@ -33,3 +33,5 @@ Directions
 Variation
 ----------
 Replace 1 c almonds, the coconut oil, and the shredded coconut with ½ c peanut butter to make peanut butter chocolate chip cookies.
+
+:doc:`Back to the table of contents <../toc>`

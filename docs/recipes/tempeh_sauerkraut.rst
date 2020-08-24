@@ -23,3 +23,5 @@ Directions
 #. In a large skillet sauté the tempeh in 1 T of oil until golden brown.  Set aside.
 #. With the remaining oil, sauté the onion, capsicum, and garlic until lightly browned.
 #. Add the tempeh, sauerkraut, mustard, caraway, and water and continue to cook, stirring continuously, until heated through.
+
+:doc:`Back to the table of contents <../toc>`

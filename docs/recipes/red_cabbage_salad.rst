@@ -18,3 +18,5 @@ Directions
 #. In a big bowl, combine the cabbage, salt, and caraway seeds in a large mixing bowl, and thoroughly squeeze the mixture for several minutes to soften the cabbage and release its juice.
 #. Mix in the rest of the Ingredients.
 #. If you have the time, chill the salad for several hours before serving.
+
+:doc:`Back to the table of contents <../toc>`

@@ -19,3 +19,5 @@ Directions
 ==========
 1. Mix everything in a bowl with a fork, or mix everything in a food processor or blender.
 2. Transfer to a container and freeze for 4 hours or until hard.
+
+:doc:`Back to the table of contents <../toc>`

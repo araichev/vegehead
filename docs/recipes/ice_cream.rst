@@ -29,3 +29,5 @@ Here are some example flavorings.
 - Peppermint: add 1 t vanilla extract, 2 t peppermint extract, and 25 g shaved chocolate bar
 - Rosey: add 2 T rosewater
 - Fat Elvis: add 2 t vanilla extract, 1 very ripe bananas mashed, 25 g shaved chocolate, and ⅓ c peanut butter
+
+:doc:`Back to the table of contents <../toc>`

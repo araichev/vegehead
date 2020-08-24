@@ -23,3 +23,5 @@ Directions
 
 #. In a food processor or with a bowl and whisk, whip the tahini and lemon juice.
 #. Add the remaining ingredients, blend, and thin to your desired consistency with the chickpea liquid.
+
+:doc:`Back to the table of contents <../toc>`

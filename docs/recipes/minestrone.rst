@@ -30,3 +30,5 @@ Directions
 #. In a pressure cooker, heat 1 T olive oil and sauté the onion and garlic until golden.
 #. Add in everything else except the salt, and pressure cook at high pressure for however long the slowest cooking bean needs, e.g. 14 minutes for a kidney bean + lentils combination.
 #. Add the remaining olive oil and salt and serve.
+
+:doc:`Back to the table of contents <../toc>`

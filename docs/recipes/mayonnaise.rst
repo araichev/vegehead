@@ -17,3 +17,6 @@ Directions
 #. In a bowl, whisk the egg yolks, mustard, and vinegar until frothy.
 #. Very slowly drizzle in the olive oil while whisking rapidly until thick.
 #. Whisk in the honey and salt.
+
+
+:doc:`Back to the table of contents <../toc>`
