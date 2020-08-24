@@ -7,7 +7,7 @@ This is most easily prepared with a food processor, but you can also use simple 
 
 Ingredients
 ------------
-- 3 c cooked chickpeas, however you manage it
+- 3 c cooked chickpeas (about two 400 mL cans worth), however you can manage it
 - a little chickpea liquid for thinning
 - ½  c  tahini
 - ¼  c  lemon juice

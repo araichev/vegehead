@@ -21,8 +21,8 @@ Ingredients
 Directions
 ----------
 #. Heat the skillet over medium-high heat, add 1 t butter, and sauté the onion covered until golden brown.
-#. Push the onion to the skillet's perimeter and add the rest of the butter and the chili flakes.
-#. Crack the eggs into the skillet, put the cheese and turmeric on top of the eggs, and push the onions to the perimeter of the eggs.
+#. Push the onion to the skillet's perimeter, add the rest of the butter, and crack the eggs into the skillet.
+#. Top the eggs with the chili, cheese, and turmeric.
 #. Fry until the bottom is crispy but the yolks still runny.
 #. Sprinkle on the salt and pepper and serve.
 
