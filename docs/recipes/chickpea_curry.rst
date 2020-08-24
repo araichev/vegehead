@@ -9,7 +9,6 @@ It is also my favorite Hare Krishna recipe.
 
 Ingredients
 --------------
-- 3 c water
 - 1 T coconut oil
 - ½ t ground cinnamon
 - 1 T fennel seed
@@ -27,7 +26,7 @@ Ingredients
 - 1 T channa masala
 - 1 head broccoli, chopped
 - 1 t tamarind concentrate
-- 500 g cooked chickpeas (about two 400 mL cans worth)
+- 3 c cooked chickpeas (about two 400 mL cans worth), however you can manage it
 - 1 t salt or to taste
 - some chopped coriander leaf for topping
 

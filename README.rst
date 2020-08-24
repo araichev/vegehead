@@ -59,6 +59,12 @@ Notes
 Changes
 ========
 
+3.6.2, 2020-08-25
+-----------------
+- Fixed typos in the frylet recipe.
+- Fixed typos in the chickpea curry recipe.
+
+
 3.6.1, 2020-08-24
 -----------------
 - Added links to the table of contents at the end of each recipe.
