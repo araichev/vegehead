@@ -30,3 +30,5 @@ Directions
 Variations
 ----------
 - Add 40 g dried cherries or cranberries
+
+:doc:`Back to the table of contents <../toc>`

@@ -39,3 +39,5 @@ Also, including liquids in this recipe would ruin or make very difficult the tem
 
 If you don't want to temper the chocolate, you can skip steps 4, 5, and 7 and cool the chocolate in the refrigerator, but you better keep it there.
 Bringing the chocolate back to room temperature will probably cause melting and mealiness.
+
+:doc:`Back to the table of contents <../toc>`

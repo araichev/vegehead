@@ -29,3 +29,5 @@ Directions
 -----------
 #. Put everything except the tomato paste, vinegar, and salt in a pressure cooker, and pressure cook everything at high pressure for 11 minutes.
 #. Remove the bay leaves, add the vinegar and salt, dissolve the tomato paste in a cup of soup, and stir the cup back into the soup. Garnish with parsley and serve.
+
+:doc:`Back to the table of contents <../toc>`

@@ -28,3 +28,5 @@ Directions
 Variation
 ---------
 - Add 1/4 c cocoa to the mix.
+
+:doc:`Back to the table of contents <../toc>`

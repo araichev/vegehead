@@ -24,3 +24,5 @@ Directions
 #. In a large bowl, mix the cabbage, apple, peanuts, coconut, lemon juice, and coriander.
 #. In a small sauce pan, heat the oil and fry the spices until fragrant.
 #. Mix everything together and serve.
+
+:doc:`Back to the table of contents <../toc>`

@@ -26,3 +26,5 @@ Directions
 1. Reserve 1 T coconut oil, the cumin seeds, mustard seeds, and salt. Put everything else into a pressure cooker, and cook at high pressure for 11 minutes.
 2. In a small saucepan, fry the reserved coconut oil, cumin seeds, and mustard seeds until the mustard seeds begin to pop.
 3. Add the fried seed mix and the salt to the soup, garnish with coriander leaf, and serve.
+
+:doc:`Back to the table of contents <../toc>`

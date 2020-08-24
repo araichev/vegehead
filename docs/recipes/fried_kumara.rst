@@ -18,3 +18,5 @@ Directions
 #. Heat the large skillet with the coconut oil over medium heat and fry the kumara covered for 7 minutes or until lightly browned on one side.
 #. Flip the kumara and fry uncovered for 4 minutes or until lightly browned on the other side.
 #. Sprinkle on the cinnamon and salt, transfer to dishes, and top with tahini.
+
+:doc:`Back to the table of contents <../toc>`

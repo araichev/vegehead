@@ -59,6 +59,11 @@ Notes
 Changes
 ========
 
+3.6.1, 2020-08-24
+-----------------
+- Added links to the table of contents at the end of each recipe.
+
+
 3.6.0, 2020-08-23
 -----------------
 - Added aioli recipe.

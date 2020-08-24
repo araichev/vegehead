@@ -31,3 +31,5 @@ Instructions
 #. In the food processor, pulse the chia seeds and water. Add the remaining ingredients, minus the garnish, and blend until smooth, adding a little water if necessary.
 #. Pour the mix into the baking dish, smooth it over with a knife, and sprinkle with the optional garnish.
 #. Bake until the top is crispy but the inside still fudgey, about 40 minutes.
+
+:doc:`Back to the table of contents <../toc>`

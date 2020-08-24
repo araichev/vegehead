@@ -20,3 +20,5 @@ Directions
 ----------
 1. With a blender or whatever, blend all the ingredients, except for the oil and water
 2. While blending, slowly add the oil, then blend in the water at the end until the desired consistency is reached
+
+:doc:`Back to the table of contents <../toc>`

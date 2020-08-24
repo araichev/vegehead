@@ -23,3 +23,5 @@ Directions
 #. In a big bowl, mix the yoghurt and water thoroughly.
 #. Mix in the rest of the ingredients.
 #. Chill and serve.
+
+:doc:`Back to the table of contents <../toc>`

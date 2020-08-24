@@ -17,3 +17,5 @@ Directions
 #. Combine the rhubarb and water in the sauce pan and cook covered on medium-high for 5 minutes.
 #. Add the banana, reduce the heat to medium, and cook covered for 5 more minutes, or until the rhubarb has disintegrated.
 #. Remove from heat, mix in the honey, and serve over yogurt or ice cream.
+
+:doc:`Back to the table of contents <../toc>`

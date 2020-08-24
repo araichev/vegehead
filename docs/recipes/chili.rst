@@ -32,3 +32,5 @@ Directions
 #. In a pressure cooker, heat 1 T olive oil and sauté the onion, garlic, capsicum, and chilis until golden.
 #. Add in everything else except the salt and coriander, and pressure cook at high pressure for however long the slowest cooking bean needs, e.g. 14 minutes for a kidney bean + pinto bean + mung bean combination.
 #. Add the remaining olive oil, salt, and coriander, and serve.
+
+:doc:`Back to the table of contents <../toc>`

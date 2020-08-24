@@ -1,2 +1,5 @@
-<h1>{{ _('Table of Contents') }}</h1>
+<!--
+The document-toc id is part of a kludge to back link to the top of the table of contents from individual recipes
+-->
+<h1 id="document-toc">{{ _('Table of Contents') }}</h1>
 {{ toctree(collapse=False) }}
