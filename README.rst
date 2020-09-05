@@ -59,6 +59,11 @@ Notes
 Changes
 ========
 
+3.6.3, 2020-09-06
+-----------------
+- Added missing salt to aioli recipe.
+
+
 3.6.2, 2020-08-25
 -----------------
 - Fixed typos in the frylet recipe.
