@@ -12,6 +12,7 @@ Ingredients
 - 1 T apple vinegar
 - 3 cloves garlic
 - 1 T whole grain mustard
+- ½ t salt
 - 2 c light olive oil, at room temperature
 - ½--1 c water, at room temperature
 
