@@ -25,8 +25,7 @@ Ingredients
 Directions
 -----------
 #. Cook the onion in the coconut oil over medium heat until soft, about 2 minutes.
-#. Add the garlic, ginger, and chili and cook for 30 seconds.
-#. Add the turmeric and cumin, and cook for 30 seconds.
+#. Add the garlic, ginger, chili, turmeric, and cumin and cook for 30 seconds.
 #. Add the vegetable stock, curry leaves, kumara, and lentils, cover, and bring to boil over high heat.
 #. Reduce heat and simmer for 10 minutes, or until the the lentils and kumara are tender.
 #. Mix in the spinach and cook for 1 minute.

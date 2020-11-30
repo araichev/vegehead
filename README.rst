@@ -59,6 +59,12 @@ Notes
 Changes
 ========
 
+3.6.4, 2020-11-30
+-----------------
+- Added a favicon.
+- Simplified masoor dal slightly.
+
+
 3.6.3, 2020-09-06
 -----------------
 - Added missing salt to aioli recipe.
