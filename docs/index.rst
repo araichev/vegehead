@@ -2,8 +2,9 @@
     :maxdepth: 2
     :titlesonly:
 
+    donate
     testimonials
     introduction
-    savory
-    sweet
-    recipes/baking_soda
+    recipes_savory
+    recipes_sweet
+    recipes_bathroom

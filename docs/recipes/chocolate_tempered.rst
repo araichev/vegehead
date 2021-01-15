@@ -6,7 +6,7 @@
 Chocolate Tempered
 ==================
 | **Makes**: 185g
-| **Equipment**: sauce pan, grater, thermometer, chocolate mold (optional)
+| **Equipment**: double boiler, thermometer, chocolate mold (optional)
 
 
 Ingredients
@@ -19,13 +19,13 @@ Ingredients
 
 Directions
 ----------
-#. Finely grate 1% of the cocoa butter (1 g) or a little more and set aside
-#. Melt the remaining 99% of the cocoa butter in a sauce pan or double boiler until it reaches 46 |o| C
-#. Remove from heat and thoroughly mix in the remaining ingredients
-#. Cool/heat the mix until it reaches 35 |o| C
-#. Mix in the grated cocoa butter to seed the crystallization of the chocolate
-#. Pour into a chocolate mold, pan, baking paper, something like that
-#. Let it cool at room temperature until it hardens
+#. Finely chop the cocoa butter, reserving one quarter of it for later.
+#. Melt the remaining three quarters of the cocoa butter along with the cocoa powder, vanilla beans, and sugar in a double boiler until it reaches 56 |o| C.
+#. Remove from heat, then set aside one third of the chocolate in a warm place.
+#. Mix into the remaining two thirds the reserved cocoa butter, stirring constantly until the mixture reaches 28 |o| C.
+#. Mix in the reserved molten chocolate so that the mix reaches 32 |o| C.
+#. Pour into a chocolate mold, pan, baking paper, something like that.
+#. Let it cool at room temperature until it hardens.
 
 Variations
 ----------
@@ -36,8 +36,8 @@ Notes
 ------
 The heating and cooling to specific temperatures in this recipe tempers the chocolate so that it hardens and remains hard at room temperature.
 Also, including liquids in this recipe would ruin or make very difficult the tempering.
+If the chocolate does not temper, then something went wrong.
+Try the melting process again with the failed batch.
 
-If you don't want to temper the chocolate, you can skip steps 4, 5, and 7 and cool the chocolate in the refrigerator, but you better keep it there.
-Bringing the chocolate back to room temperature will probably cause melting and mealiness.
 
 :doc:`Back to the table of contents <../toc>`

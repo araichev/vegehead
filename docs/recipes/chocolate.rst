@@ -6,7 +6,10 @@
 Chocolate
 ==========
 | **Makes**: 185g
-| **Equipment**: sauce pan, chocolate mold (optional)
+| **Equipment**: double boiler, chocolate mold (optional)
+
+
+If you don't want to temper chocolate and don't mind keeping chocolate in the refrigerator, then this recipe is for you.
 
 
 Ingredients
@@ -22,10 +25,11 @@ Ingredients
 
 Directions
 ----------
-#. Liquify the cocoa butter and coconut oil over medium heat in a sauce pan or double boiler
-#. Remove from heat and thoroughly mix in the remaining ingredients
-#. Pour into a chocolate mold, pan, baking paper, something like that
-#. Chill and store in a refrigerator
+#. Liquify the cocoa butter and coconut oil over medium heat in a double boiler.
+#. Remove from heat and thoroughly mix in the remaining ingredients.
+#. Pour into a chocolate mold, pan, baking paper, something like that.
+#. Chill and store in a refrigerator.
+
 
 Variations
 ----------
