@@ -7,7 +7,7 @@ If you like VegeHead and want to drop a few dollars into my virtual tip jar, you
     <form action="https://www.paypal.com/donate" method="post" target="_top">
       <input type="hidden" name="hosted_button_id" value="BMR5EKT25XFNN" />
       <input title="Donate to VegeHead" alt="Donate to VegeHead via PayPal" name="submit"
-      src="/_static/donate.svg"
+      src="_static/donate.svg"
       type="image" width="100" />
     </form>
 
