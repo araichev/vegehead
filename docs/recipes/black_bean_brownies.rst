@@ -14,10 +14,11 @@ Serve with a creamy topping, such as, yogurt.
 Ingredients
 -----------
 - 2 T chia seeds or flax seeds + 2 T water
-- 400 mL cooked black beans
+- 400 mL cooked black beans (drained)
 - ¾ c cocoa powder
 - ¼ t salt
 - 1½ t baking powder
+- ¼ c sugar
 - ½ c maple syrup or date syrup
 - 1 t vanilla extract
 - ½ c peanut butter
@@ -31,5 +32,9 @@ Instructions
 #. In the food processor, pulse the chia seeds and water. Add the remaining ingredients, minus the garnish, and blend until smooth, adding a little water if necessary.
 #. Pour the mix into the baking dish, smooth it over with a knife, and sprinkle with the optional garnish.
 #. Bake until the top is crispy but the inside still fudgey, about 40 minutes.
+
+Notes
+-----
+If you don't have a food processor, you can grind the seeds with a mortar and pestle, then mash the beans with a fork, then mix everything together.
 
 :doc:`Back to the table of contents <../toc>`

@@ -8,6 +8,7 @@ Savory Recipes
     recipes/aioli
     recipes/hummus
 
+    recipes/zucchine_alla_scapece
     recipes/tempeh_sauerkraut
     recipes/cabbage_salad
     recipes/red_cabbage_salad
@@ -17,6 +18,7 @@ Savory Recipes
     recipes/almond_rolls
 
     recipes/frylet
+    recipes/spanish_beans
     recipes/mung_dal
     recipes/chana_dal
     recipes/masoor_dal

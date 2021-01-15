@@ -59,6 +59,18 @@ Notes
 Changes
 ========
 
+3.7.0, 2021-01-15
+-----------------
+- Added a tip jar to accept donations.
+- Added shampoo recipe.
+- Added deodorant recipe.
+- Added spanish beans recipe.
+- Added zucchine alla scapece recipe.
+- Tweaked brownie recipe.
+- Removed duplicate water ingredient in hummus recipe.
+- Rewrote tempered chocolate recipe according to https://www.bbcgoodfood.com/howto/guide/how-temper-chocolate .
+
+
 3.6.4, 2020-11-30
 -----------------
 - Added a favicon.

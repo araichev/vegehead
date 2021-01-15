@@ -50,14 +50,17 @@ ul li p, ol li p {
     margin: 0;
 }
 .savory-section h2:before {
-    content: '🥬';
-/*    content: '🍴';
-*/
+    content: '🍲';
     padding-right: 0.5em;
     font-style: normal;
 }
 .sweet-section h2:before {
-    content: '🍨';
+    content: '🥧';
+    padding-right: 0.5em;
+    font-style: normal;
+}
+.bathroom-section h2:before {
+    content: '🚿';
     padding-right: 0.5em;
     font-style: normal;
 }
