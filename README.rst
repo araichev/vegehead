@@ -61,11 +61,13 @@ Changes
 
 3.7.0, 2021-01-15
 -----------------
-- Added a tip jar to accept donations.
+- Added a tip jar to accept donations :)
 - Added shampoo recipe.
 - Added deodorant recipe.
+- Added a bathroom recipes section.
 - Added spanish beans recipe.
 - Added zucchine alla scapece recipe.
+- Changed emojis
 - Tweaked brownie recipe.
 - Removed duplicate water ingredient in hummus recipe.
 - Rewrote tempered chocolate recipe according to https://www.bbcgoodfood.com/howto/guide/how-temper-chocolate .
