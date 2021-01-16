@@ -59,9 +59,14 @@ Notes
 Changes
 ========
 
+3.7.1, 2021-01-17
+-----------------
+- Tweaked tip jar section.
+
+
 3.7.0, 2021-01-15
 -----------------
-- Added a tip jar to accept donations :)
+- Added a virtual jar to accept tips.
 - Added shampoo recipe.
 - Added deodorant recipe.
 - Added a bathroom recipes section.
