@@ -2,7 +2,7 @@
     :maxdepth: 2
     :titlesonly:
 
-    donate
+    tip_jar
     testimonials
     introduction
     recipes_savory
