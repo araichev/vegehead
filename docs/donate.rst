@@ -1,6 +1,6 @@
-Tip Jar
+Donate
 =======
-If you like VegeHead and want to help keep it on the Internet, *you can now* by dropping a small tip into my jar:
+If you like VegeHead and want to help keep it on the Internet, *you can now* by making a small donation for web hosting:
 
 .. raw:: html
 
@@ -12,6 +12,5 @@ If you like VegeHead and want to help keep it on the Internet, *you can now* by 
     </form>
 
 That's a PayPal button for credit/debit card payments.
-Alternatively, you can drop your tip directly into my Kiwibank account at Alex Raichev 38-9009-0530201-00.
-
-Thanks!
+Alternatively, you can donate directly to my Kiwibank account at Alex Raichev 38-9009-0530201-00.
+Cheers!
