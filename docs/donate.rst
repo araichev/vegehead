@@ -1,6 +1,6 @@
 Donate
 =======
-If you like VegeHead and want to help keep it on the Internet, *you can now* by making a small donation for web hosting:
+If you like VegeHead and want to help keep it on the Internet, *you can now* by making a small donation toward web hosting:
 
 .. raw:: html
 
@@ -12,5 +12,5 @@ If you like VegeHead and want to help keep it on the Internet, *you can now* by 
     </form>
 
 That's a PayPal button for credit/debit card payments.
-Alternatively, you can donate directly to my Kiwibank account at Alex Raichev 38-9009-0530201-00.
-Cheers!
+Alternatively, you can donate fiat currency into my Kiwibank account at Alex Raichev 38-9009-0530201-00, Bitcoin into my wallet at 1ACZVf3fBbyBJbv97HnteNV8mDzdWT2Wd8, or Ethereum into my wallet at 0xF2c854886ea636B8F8E30B87b9afDCFA28B5B243.
+Thanks for your support!
