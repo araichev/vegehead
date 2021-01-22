@@ -59,6 +59,11 @@ Notes
 Changes
 ========
 
+3.7.2, 2021-01-22
+-----------------
+- Added cryptocurrency donations.
+
+
 3.7.1, 2021-01-17
 -----------------
 - Tweaked donation section.
