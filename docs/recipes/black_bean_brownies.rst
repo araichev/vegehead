@@ -19,7 +19,7 @@ Ingredients
 - ¼ t salt
 - 1½ t baking powder
 - ¼ c sugar
-- ½ c maple syrup or date syrup
+- ¼ c maple syrup or date syrup
 - 1 t vanilla extract
 - ½ c peanut butter
 - coconut oil to grease the baking dish

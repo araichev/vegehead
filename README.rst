@@ -59,6 +59,11 @@ Notes
 Changes
 ========
 
+3.7.3, 2021-02-11
+-----------------
+- Fixed a typo in the black blean brownie recipe.
+
+
 3.7.2, 2021-01-22
 -----------------
 - Added cryptocurrency donations.
