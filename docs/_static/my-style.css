@@ -35,7 +35,7 @@ h2 {
 a:link, a:visited {
     font-weight: normal;
     text-decoration: none;
-    color: green;
+    color: #25a75b;
 }
 a[href]:hover, a:active {
     text-decoration: underline;
