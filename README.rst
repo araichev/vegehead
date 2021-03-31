@@ -59,6 +59,11 @@ Notes
 Changes
 ========
 
+3.7.4, 2021-03-31
+-----------------
+- Replaced unicode emojis with images.
+
+
 3.7.3, 2021-02-11
 -----------------
 - Fixed a typo in the black blean brownie recipe.

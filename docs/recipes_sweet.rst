@@ -8,13 +8,13 @@ You have been warned.
 
 .. toctree::
 
+    recipes/apricot_balls
+    recipes/banana_kulfi
     recipes/black_bean_brownies
-    recipes/nut_butter_muffins
-    recipes/chocolate_tempered
     recipes/chocolate
     recipes/chocolate_chip_cookies
+    recipes/chocolate_tempered
     recipes/cpbb_pie
-    recipes/apricot_balls
     recipes/ice_cream
+    recipes/nut_butter_muffins
     recipes/rhubarb_sauce
-    recipes/banana_kulfi
