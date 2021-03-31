@@ -29,8 +29,11 @@ h2 {
     font-size: 50px;
     font-style: italic;
     page-break-before: avoid;
-    margin-bottom: 7px;
-    margin-left: -10px;
+    margin-bottom: 0;
+}
+#header img {
+    height: 1em;
+    margin: 0 -5px -2px 6px;
 }
 a:link, a:visited {
     font-weight: normal;
@@ -50,17 +53,23 @@ ul li p, ol li p {
     margin: 0;
 }
 .savory-section h2:before {
-    content: '🍲';
-    padding-right: 0.5em;
-    font-style: normal;
+    content: '';
+    background-image: url('soup.png');
+    background-size: 1.4em;
+    background-repeat: no-repeat;
+    padding: 0.4em 1.8em 0 0;
 }
 .sweet-section h2:before {
-    content: '🥧';
-    padding-right: 0.5em;
-    font-style: normal;
+    content: '';
+    background-image: url('pie.png');
+    background-size: 1.2em;
+    background-repeat: no-repeat;
+    padding: 0.1em 1.7em 0 0;
 }
 .bathroom-section h2:before {
-    content: '🚿';
-    padding-right: 0.5em;
-    font-style: normal;
+    content: '';
+    background-image: url('shower.png');
+    background-size: 1.1em;
+    background-repeat: no-repeat;
+    padding: 0.1em 1.6em 0 0;
 }
