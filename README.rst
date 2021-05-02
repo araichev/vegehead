@@ -59,6 +59,13 @@ Notes
 Changes
 ========
 
+3.8.0, 2021-05-02
+-----------------
+- Added Schmukomst recipe.
+- Added Helena's testimonial.
+- New and improved soup emoji.
+
+
 3.7.4, 2021-03-31
 -----------------
 - Replaced unicode emojis with images.
