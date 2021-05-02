@@ -23,6 +23,7 @@ Savory Recipes
     recipes/mung_dal
     recipes/pumpkin_curry
     recipes/red_cabbage_salad
+    recipes/schmukomst
     recipes/spanish_beans
     recipes/tarator
     recipes/tempeh_sauerkraut

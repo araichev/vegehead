@@ -15,3 +15,5 @@ Testimonials
 "Tip #1: Make sure you have a frying pan. Failing that, stop by Alex's, because there is a whole lot more know-how in that frylet than I have words for. C'est YUM." ~Evania Natalie-Anne Premadaya Quin Vallyon
 
 "Alex makes good shit. The good shit that Alex makes is here. This is legit food. If I weren't such a maverick and actually followed recipes, this would be the place for me. If you don't like legit food, might I recommend a trip to the freezer aisle of your local big box grocery store where you might find something appropriately prosaic?" ~Lewis Thorwaldson
+
+"VegeHead couldn't be more opposite of your typical recipe blog. Instead of falling for pretty pictures that lead you down a rabbit hole of complicated cooking steps with sometimes disappointing results, VegeHead will give you a delicious and healthy tastebud party in no time and with minimal effort. Even better: an increasing amount of vegan recipes! Thanks Alex for this unique collection." ~Helena Teichrib
