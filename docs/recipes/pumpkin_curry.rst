@@ -1,7 +1,7 @@
 Pumpkin Curry
 =============
 | **Serves**: 4
-| **Equipment**: pressure cooker
+| **Equipment**: steamer, medium pot
 
 
 Ingredients
@@ -9,7 +9,7 @@ Ingredients
 - 1   T   coconut oil
 - 1 	  onion, peeled and coarsley chopped
 - 2   c   pumpkin or butternut squash, peeled, seeded, and cut into 1 cm chunks
-- 2   t   ginger, diced
+- 2   t   ginger, grated
 - 2   t   curry powder
 - ½   t   ground turmeric
 - ½   t   ground cumin
@@ -26,9 +26,10 @@ Ingredients
 
 Directions
 -----------
-#. Sauté the onion with the coconut oil in the pressure cooker for 2 minutes.
-#. Add the rest of the ingredients, except the salt, lemon juice and coriander, and cook at high pressure for 6 minutes.
-#. Mix in the salt and lemon juice and serve, garnished with coriander.
+#. Steam the pumpkin until soft, about 10 minutes.
+#. In the meantime in a medium pot, cook the onion in the coconut oil over medium-high heat until golden brown.
+#. Add to the onions the remaining ingredients, except for the pumpkin, lemon juice, and coriander, bring to a boil, then simmer for 10 minutes.
+#. Mix in the pumpkin and lemon juice and serve garnished with coriander.
 
 
 :doc:`Back to the table of contents <../toc>`

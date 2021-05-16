@@ -59,6 +59,11 @@ Notes
 Changes
 ========
 
+3.8.1, 2021-05-16
+-----------------
+- Updated pumpkin curry to remove pressure cooker dependency
+
+
 3.8.0, 2021-05-02
 -----------------
 - Added Schmukomst recipe.
